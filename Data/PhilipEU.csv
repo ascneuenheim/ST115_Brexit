@@ -1,0 +1,848 @@
+Nationality,Department,Program,Applications 2019,Offers 2019,Entrances 2019,Applications 2020,Offers 2020,Entrances 2020,Applications 2021,Offers 2021,Entrances 2021,Applications 2022,Offers 2022,Entrances 2022,Applications 2023,Offers 2023,Entrances 2023
+Austrian,Accounting  ,UG Degree,7.0,0.0,0.0,6.0,0.0,0.0,2.5,0.0,0.0,6.0,0.0,0.0,8.0,0.0,0.0
+Austrian,Accounting  ,PG Taught,8.0,2.5,2.5,5.0,2.5,0.0,5.0,2.5,0.0,10.0,2.5,2.5,2.5,2.5,2.5
+Austrian,Anthropology  ,UG Degree,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Austrian,Anthropology  ,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Austrian,Economic  History ,UG Degree,5.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,5.0,0.0,0.0
+Austrian,Economic  History ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5
+Austrian,Economics  ,UG Degree,16.0,0.0,0.0,12.0,0.0,0.0,10.0,0.0,0.0,16.0,0.0,0.0,9.0,2.5,0.0
+Austrian,Economics  ,PG Taught,12.0,7.0,2.5,9.0,6.0,2.5,7.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+Austrian,European Institute,PG Taught,11.0,2.5,5.0,7.0,5.0,2.5,12.0,7.0,2.5,15.0,9.0,2.5,7.0,2.5,2.5
+Austrian,Finance  ,UG Degree,5.0,2.5,0.0,2.5,0.0,0.0,6.0,2.5,2.5,5.0,2.5,2.5,10.0,5.0,2.5
+Austrian,Finance  ,PG Taught,20.0,2.5,2.5,18.0,6.0,2.5,22.0,9.0,2.5,28.0,12.0,2.5,13.0,2.5,2.5
+Austrian,Gender Studies,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Austrian,Geography and Environment,UG Degree,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,0.0
+Austrian,Geography and Environment,PG Taught,13.0,2.5,2.5,7.0,2.5,2.5,8.0,2.5,2.5,28.0,6.0,2.5,20.0,7.0,5.0
+Austrian,Government  ,UG Degree,12.0,2.5,0.0,10.0,2.5,2.5,7.0,0.0,0.0,8.0,0.0,0.0,7.0,0.0,0.0
+Austrian,Government  ,PG Taught,10.0,2.5,0.0,10.0,2.5,2.5,8.0,2.5,2.5,5.0,2.5,2.5,13.0,9.0,2.5
+Austrian,Health Policy ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Austrian,International Development,PG Taught,9.0,2.5,2.5,6.0,2.5,2.5,11.0,5.0,2.5,12.0,8.0,5.0,9.0,2.5,2.5
+Austrian,International  History ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,2.5,2.5,0.0
+Austrian,International  History ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Austrian,International  Relations ,UG Degree,10.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Austrian,International  Relations ,PG Taught,20.0,9.0,8.0,9.0,2.5,2.5,9.0,2.5,2.5,2.5,2.5,0.0,9.0,5.0,0.0
+Austrian,Language Centre,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0
+Austrian,LSE Law School,UG Degree,8.0,0.0,0.0,9.0,2.5,2.5,6.0,0.0,0.0,8.0,0.0,0.0,2.5,0.0,0.0
+Austrian,LSE Law School,PG Taught,16.0,9.0,7.0,13.0,6.0,2.5,12.0,6.0,2.5,13.0,2.5,2.5,10.0,6.0,2.5
+Austrian,Management  ,UG Degree,16.0,2.5,2.5,11.0,2.5,2.5,14.0,2.5,0.0,8.0,2.5,2.5,15.0,0.0,0.0
+Austrian,Management  ,PG Taught,26.0,11.0,5.0,23.0,11.0,2.5,21.0,6.0,2.5,22.0,8.0,2.5,16.0,9.0,2.5
+Austrian,Mathematics  ,UG Degree,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Austrian,Mathematics  ,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Austrian,Media and Communications,PG Taught,6.0,2.5,2.5,7.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0
+Austrian,Methodology ,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Austrian,Philosophy Logic and Scientific Method,UG Degree,16.0,0.0,0.0,9.0,0.0,0.0,10.0,0.0,0.0,8.0,2.5,2.5,7.0,0.0,0.0
+Austrian,Philosophy Logic and Scientific Method,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,2.5,6.0,2.5,0.0,2.5,0.0,0.0
+Austrian,Psychological and Behavioural Science,UG Degree,0.0,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Austrian,Psychological and Behavioural Science,PG Taught,13.0,2.5,0.0,13.0,6.0,2.5,9.0,2.5,0.0,10.0,2.5,2.5,7.0,2.5,2.5
+Austrian,School of Public Policy,PG Taught,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,2.5,0.0,0.0,7.0,2.5,2.5
+Austrian,Social Policy  ,UG Degree,5.0,2.5,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Austrian,Social Policy  ,PG Taught,2.5,2.5,2.5,5.0,2.5,2.5,2.5,2.5,0.0,2.5,0.0,0.0,6.0,2.5,2.5
+Austrian,Sociology  ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Austrian,Sociology  ,PG Taught,2.5,2.5,2.5,9.0,5.0,0.0,2.5,2.5,0.0,6.0,2.5,2.5,2.5,2.5,2.5
+Austrian,Statistics  ,UG Degree,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Austrian,Statistics  ,PG Taught,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,7.0,2.5,2.5,2.5,0.0,0.0
+Belgian,Accounting  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,5.0,2.5,0.0,2.5,0.0,0.0
+Belgian,Accounting  ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,0.0
+Belgian,Anthropology  ,UG Degree,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Belgian,Anthropology  ,PG Taught,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,0.0
+Belgian,Economic  History ,UG Degree,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Belgian,Economic  History ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0,2.5,2.5,2.5
+Belgian,Economics  ,UG Degree,8.0,2.5,0.0,7.0,0.0,0.0,6.0,0.0,0.0,8.0,2.5,0.0,8.0,0.0,0.0
+Belgian,Economics  ,PG Taught,5.0,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0,6.0,2.5,2.5,2.5,2.5,2.5
+Belgian,European Institute,PG Taught,9.0,2.5,2.5,7.0,2.5,2.5,10.0,6.0,5.0,10.0,6.0,5.0,7.0,5.0,2.5
+Belgian,Finance  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,7.0,2.5,2.5,5.0,2.5,0.0,2.5,2.5,2.5
+Belgian,Finance  ,PG Taught,14.0,2.5,2.5,14.0,2.5,2.5,17.0,2.5,2.5,10.0,2.5,0.0,17.0,0.0,0.0
+Belgian,Gender Studies,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,5.0,2.5,2.5
+Belgian,Geography and Environment,UG Degree,2.5,2.5,0.0,6.0,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Belgian,Geography and Environment,PG Taught,6.0,2.5,2.5,9.0,2.5,0.0,11.0,5.0,2.5,7.0,2.5,2.5,16.0,5.0,2.5
+Belgian,Government  ,UG Degree,13.0,2.5,2.5,10.0,2.5,0.0,12.0,0.0,0.0,9.0,0.0,0.0,7.0,0.0,0.0
+Belgian,Government  ,PG Taught,7.0,2.5,0.0,2.5,0.0,0.0,5.0,2.5,2.5,9.0,2.5,2.5,2.5,2.5,0.0
+Belgian,Health Policy ,PG Taught,6.0,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5
+Belgian,International Development,PG Taught,2.5,2.5,2.5,5.0,2.5,2.5,12.0,2.5,2.5,7.0,2.5,2.5,10.0,6.0,5.0
+Belgian,International  History ,UG Degree,5.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,6.0,2.5,0.0,7.0,2.5,0.0
+Belgian,International  History ,PG Taught,8.0,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5,0.0,0.0,2.5
+Belgian,International  Relations ,UG Degree,6.0,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Belgian,International  Relations ,PG Taught,11.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,8.0,2.5,2.5,12.0,2.5,2.5
+Belgian,Language Centre,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0
+Belgian,LSE Law School,UG Degree,10.0,2.5,2.5,9.0,2.5,0.0,11.0,0.0,0.0,12.0,2.5,2.5,5.0,2.5,2.5
+Belgian,LSE Law School,PG Taught,41.0,10.0,5.0,22.0,11.0,8.0,18.0,8.0,2.5,20.0,12.0,6.0,28.0,18.0,7.0
+Belgian,Management  ,UG Degree,11.0,2.5,2.5,5.0,0.0,0.0,11.0,0.0,0.0,13.0,2.5,2.5,13.0,2.5,2.5
+Belgian,Management  ,PG Taught,30.0,8.0,2.5,25.0,11.0,6.0,27.0,9.0,5.0,16.0,8.0,2.5,13.0,2.5,2.5
+Belgian,Mathematics  ,UG Degree,2.5,2.5,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Belgian,Mathematics  ,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Belgian,Media and Communications,PG Taught,5.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5
+Belgian,Methodology ,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Belgian,Philosophy Logic and Scientific Method,UG Degree,2.5,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,5.0,0.0,0.0
+Belgian,Philosophy Logic and Scientific Method,PG Taught,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0
+Belgian,Psychological and Behavioural Science,UG Degree,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,0.0
+Belgian,Psychological and Behavioural Science,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,5.0,2.5,2.5,8.0,2.5,2.5,2.5,2.5,2.5
+Belgian,School of Public Policy,PG Taught,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Belgian,Social Policy  ,UG Degree,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Belgian,Social Policy  ,PG Taught,0.0,0.0,0.0,5.0,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,2.5
+Belgian,Sociology  ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Belgian,Sociology  ,PG Taught,6.0,2.5,2.5,2.5,2.5,2.5,6.0,2.5,2.5,8.0,2.5,2.5,2.5,2.5,2.5
+Belgian,Statistics  ,UG Degree,2.5,2.5,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Belgian,Statistics  ,PG Taught,2.5,0.0,0.0,10.0,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Bulgarian,Accounting  ,UG Degree,7.0,2.5,2.5,8.0,0.0,0.0,7.0,0.0,0.0,10.0,2.5,0.0,2.5,0.0,0.0
+Bulgarian,Accounting  ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,5.0,2.5,2.5,2.5,0.0,0.0
+Bulgarian,Anthropology  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Bulgarian,Anthropology  ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bulgarian,Economic  History ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,6.0,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Bulgarian,Economic  History ,PG Taught,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Bulgarian,Economics  ,UG Degree,9.0,0.0,0.0,18.0,2.5,2.5,16.0,0.0,0.0,7.0,0.0,0.0,13.0,2.5,0.0
+Bulgarian,Economics  ,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,8.0,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0
+Bulgarian,European Institute,PG Taught,5.0,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5,5.0,2.5,2.5,2.5,0.0,0.0
+Bulgarian,Finance  ,UG Degree,2.5,0.0,0.0,6.0,0.0,0.0,7.0,2.5,2.5,2.5,2.5,2.5,5.0,0.0,0.0
+Bulgarian,Finance  ,PG Taught,8.0,2.5,2.5,14.0,2.5,2.5,8.0,2.5,0.0,10.0,2.5,2.5,17.0,2.5,2.5
+Bulgarian,Gender Studies,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0
+Bulgarian,Geography and Environment,UG Degree,2.5,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Bulgarian,Geography and Environment,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,2.5,6.0,2.5,2.5,2.5,2.5,0.0
+Bulgarian,Government  ,UG Degree,7.0,0.0,0.0,11.0,2.5,2.5,7.0,0.0,0.0,8.0,0.0,0.0,9.0,2.5,2.5
+Bulgarian,Government  ,PG Taught,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,5.0,2.5,2.5
+Bulgarian,Health Policy ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Bulgarian,International Development,PG Taught,2.5,2.5,0.0,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0
+Bulgarian,International  History ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Bulgarian,International  History ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,2.5,2.5,0.0
+Bulgarian,International  Relations ,UG Degree,2.5,0.0,0.0,5.0,2.5,0.0,0.0,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0
+Bulgarian,International  Relations ,PG Taught,6.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,6.0,2.5,0.0,2.5,2.5,2.5
+Bulgarian,Language Centre,UG Degree,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5
+Bulgarian,LSE Law School,UG Degree,18.0,2.5,2.5,13.0,2.5,0.0,8.0,2.5,2.5,6.0,2.5,0.0,8.0,2.5,0.0
+Bulgarian,LSE Law School,PG Taught,9.0,2.5,2.5,7.0,2.5,2.5,8.0,5.0,2.5,5.0,2.5,2.5,2.5,0.0,0.0
+Bulgarian,Management  ,UG Degree,5.0,0.0,0.0,12.0,2.5,2.5,8.0,0.0,0.0,6.0,2.5,0.0,6.0,2.5,2.5
+Bulgarian,Management  ,PG Taught,13.0,5.0,5.0,13.0,2.5,2.5,7.0,2.5,2.5,8.0,2.5,2.5,21.0,8.0,2.5
+Bulgarian,Mathematics  ,UG Degree,5.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Bulgarian,Mathematics  ,PG Taught,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0
+Bulgarian,Media and Communications,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5
+Bulgarian,Methodology ,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Bulgarian,Philosophy Logic and Scientific Method,UG Degree,5.0,2.5,2.5,2.5,0.0,0.0,6.0,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0
+Bulgarian,Philosophy Logic and Scientific Method,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Bulgarian,Psychological and Behavioural Science,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,2.5,2.5,0.0
+Bulgarian,Psychological and Behavioural Science,PG Taught,2.5,0.0,0.0,2.5,2.5,0.0,5.0,2.5,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Bulgarian,School of Public Policy,PG Taught,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Bulgarian,Social Policy  ,UG Degree,0.0,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0
+Bulgarian,Social Policy  ,PG Taught,2.5,2.5,2.5,6.0,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Bulgarian,Sociology  ,UG Degree,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Bulgarian,Sociology  ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,6.0,2.5,2.5,0.0,0.0,0.0
+Bulgarian,Statistics  ,UG Degree,2.5,2.5,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Bulgarian,Statistics  ,PG Taught,2.5,0.0,0.0,2.5,0.0,2.5,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5
+Croatian,Accounting  ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Croatian,Accounting  ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,2.5,2.5,2.5
+Croatian,Anthropology ,UG Degree,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Croatian,Economic  History ,UG Degree,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Croatian,Economic  History ,PG Taught,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0
+Croatian,Economics  ,UG Degree,7.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Croatian,Economics  ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Croatian,European Institute,PG Taught,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0
+Croatian,Finance  ,UG Degree,2.5,2.5,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Croatian,Finance  ,PG Taught,5.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,7.0,2.5,0.0
+Croatian,Gender Studies,PG Taught,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Croatian,Geography and Environment,UG Degree,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Croatian,Geography and Environment,PG Taught,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Croatian,Government  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,2.5
+Croatian,Government  ,PG Taught,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Croatian,Health Policy ,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Croatian,International Development,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Croatian,International Development,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Croatian,International  Relations ,UG Degree,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Croatian,International  Relations ,PG Taught,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,0.0
+Croatian,Language Centre,UG Degree,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Croatian,LSE Law School,UG Degree,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Croatian,LSE Law School,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Croatian,Management  ,UG Degree,6.0,2.5,0.0,2.5,2.5,2.5,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Croatian,Management  ,PG Taught,7.0,2.5,2.5,6.0,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5,6.0,2.5,2.5
+Croatian,Mathematics  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Croatian,Mathematics  ,PG Taught,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Croatian,Media and Communications,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Croatian,Methodology ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Croatian,Philosophy Logic and Scientific Method,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Croatian,Psychological and Behavioural Science,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Croatian,Psychological and Behavioural Science,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Croatian,School of Public Policy,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Croatian,Social Policy ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Croatian,Sociology  ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Croatian,Sociology  ,PG Taught,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0
+Croatian,Statistics ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Czech,Accounting  ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,5.0,2.5,2.5,6.0,2.5,0.0
+Czech,Accounting  ,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+Czech,Anthropology  ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Czech,Anthropology  ,PG Taught,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Czech,Economic  History ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Czech,Economic  History ,PG Taught,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,0.0
+Czech,Economics  ,UG Degree,6.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,9.0,2.5,0.0,2.5,2.5,0.0
+Czech,Economics  ,PG Taught,2.5,2.5,0.0,0.0,0.0,0.0,5.0,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0
+Czech,European Institute,PG Taught,5.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0
+Czech,Finance  ,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,7.0,2.5,2.5,2.5,2.5,2.5
+Czech,Finance  ,PG Taught,9.0,6.0,2.5,2.5,2.5,2.5,9.0,2.5,0.0,2.5,2.5,2.5,2.5,0.0,0.0
+Czech,Gender Studies,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Czech,Geography and Environment,UG Degree,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Czech,Geography and Environment,PG Taught,2.5,2.5,2.5,6.0,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0
+Czech,Government  ,UG Degree,11.0,2.5,2.5,8.0,2.5,2.5,6.0,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Czech,Government  ,PG Taught,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0,7.0,2.5,0.0,2.5,2.5,0.0
+Czech,Health Policy ,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0
+Czech,International Development,PG Taught,6.0,2.5,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,2.5
+Czech,International  History ,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,6.0,2.5,0.0
+Czech,International  History ,PG Taught,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5
+Czech,International  Relations ,UG Degree,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Czech,International  Relations ,PG Taught,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,5.0,2.5,2.5,2.5,2.5,2.5
+Czech,Language Centre,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5
+Czech,LSE Law School,UG Degree,13.0,2.5,2.5,5.0,2.5,2.5,9.0,2.5,0.0,5.0,2.5,2.5,2.5,2.5,2.5
+Czech,LSE Law School,PG Taught,0.0,0.0,0.0,5.0,2.5,2.5,7.0,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0
+Czech,Management  ,UG Degree,5.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Czech,Management  ,PG Taught,10.0,2.5,2.5,7.0,2.5,2.5,2.5,2.5,0.0,10.0,2.5,2.5,6.0,2.5,2.5
+Czech,Mathematics  ,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Czech,Mathematics  ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Czech,Media and Communications,PG Taught,2.5,2.5,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0
+Czech,Methodology ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Czech,Philosophy Logic and Scientific Method,UG Degree,5.0,2.5,0.0,9.0,2.5,0.0,2.5,0.0,0.0,5.0,0.0,0.0,2.5,2.5,0.0
+Czech,Philosophy Logic and Scientific Method,PG Taught,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Czech,Psychological and Behavioural Science,UG Degree,0.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Czech,Psychological and Behavioural Science,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,5.0,2.5,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Czech,School of Public Policy,PG Taught,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Czech,Social Policy  ,UG Degree,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Czech,Social Policy  ,PG Taught,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0
+Czech,Sociology  ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Czech,Sociology  ,PG Taught,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5
+Czech,Statistics  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0
+Czech,Statistics  ,PG Taught,0.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Danish,Accounting  ,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Danish,Accounting  ,PG Taught,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0
+Danish,Anthropology  ,UG Degree,6.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0
+Danish,Anthropology  ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Danish,Economic  History ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Danish,Economic  History ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5
+Danish,Economics  ,UG Degree,14.0,0.0,0.0,9.0,2.5,2.5,6.0,0.0,0.0,6.0,0.0,0.0,6.0,0.0,0.0
+Danish,Economics  ,PG Taught,7.0,2.5,2.5,7.0,2.5,2.5,2.5,2.5,2.5,5.0,2.5,0.0,7.0,6.0,2.5
+Danish,European Institute,PG Taught,0.0,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5,2.5,0.0,0.0,7.0,5.0,2.5
+Danish,Finance  ,UG Degree,0.0,0.0,0.0,5.0,2.5,2.5,2.5,2.5,2.5,6.0,0.0,0.0,2.5,0.0,0.0
+Danish,Finance  ,PG Taught,5.0,2.5,2.5,8.0,2.5,2.5,17.0,7.0,2.5,8.0,5.0,2.5,6.0,2.5,2.5
+Danish,Gender Studies,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Danish,Geography and Environment,UG Degree,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Danish,Geography and Environment,PG Taught,5.0,2.5,2.5,2.5,2.5,2.5,9.0,2.5,2.5,6.0,2.5,2.5,5.0,2.5,2.5
+Danish,Government  ,UG Degree,24.0,2.5,2.5,11.0,2.5,0.0,9.0,2.5,2.5,9.0,0.0,0.0,6.0,2.5,0.0
+Danish,Government  ,PG Taught,9.0,2.5,2.5,8.0,6.0,2.5,5.0,2.5,2.5,8.0,2.5,2.5,5.0,2.5,2.5
+Danish,Health Policy ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Danish,International Development,PG Taught,5.0,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,0.0,5.0,2.5,2.5
+Danish,International  History ,UG Degree,7.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,0.0
+Danish,International  History ,PG Taught,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5
+Danish,International  Relations ,UG Degree,8.0,0.0,0.0,6.0,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,6.0,2.5,0.0
+Danish,International  Relations ,PG Taught,5.0,2.5,2.5,6.0,2.5,2.5,5.0,2.5,2.5,2.5,2.5,0.0,9.0,5.0,2.5
+Danish,Language Centre,UG Degree,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Danish,LSE Law School,UG Degree,5.0,2.5,0.0,7.0,2.5,0.0,13.0,0.0,0.0,7.0,2.5,2.5,2.5,0.0,0.0
+Danish,LSE Law School,PG Taught,8.0,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5
+Danish,Management  ,UG Degree,11.0,2.5,2.5,2.5,2.5,0.0,6.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Danish,Management  ,PG Taught,14.0,6.0,2.5,6.0,2.5,2.5,11.0,2.5,2.5,2.5,0.0,0.0,8.0,2.5,2.5
+Danish,Mathematics  ,UG Degree,2.5,2.5,0.0,5.0,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Danish,Mathematics  ,PG Taught,5.0,2.5,2.5,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0
+Danish,Media and Communications,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+Danish,Methodology ,PG Taught,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,2.5,0.0,0.0
+Danish,Philosophy Logic and Scientific Method,UG Degree,14.0,2.5,2.5,16.0,2.5,2.5,7.0,0.0,0.0,6.0,2.5,0.0,2.5,0.0,0.0
+Danish,Philosophy Logic and Scientific Method,PG Taught,6.0,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Danish,Psychological and Behavioural Science,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Danish,Psychological and Behavioural Science,PG Taught,6.0,2.5,2.5,2.5,2.5,2.5,5.0,2.5,2.5,8.0,5.0,2.5,2.5,2.5,2.5
+Danish,School of Public Policy,PG Taught,2.5,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Danish,Social Policy  ,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0
+Danish,Social Policy  ,PG Taught,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Danish,Sociology  ,UG Degree,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Danish,Sociology  ,PG Taught,2.5,2.5,2.5,7.0,5.0,2.5,6.0,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5
+Danish,Statistics  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Danish,Statistics  ,PG Taught,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Estonian,Accounting ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Estonian,Anthropology ,UG Degree,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Estonian,Economics  ,UG Degree,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Estonian,Economics  ,PG Taught,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Estonian,European Institute,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Estonian,Finance  ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Estonian,Finance  ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5
+Estonian,Geography and Environment,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Estonian,Government  ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Estonian,Government  ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0
+Estonian,Health Policy ,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Estonian,International Development,PG Taught,0.0,0.0,0.0,2.5,2.5,0.0,2.5,2.5,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Estonian,International Development,UG Degree,2.5,2.5,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Estonian,International  Relations ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Estonian,International  Relations ,PG Taught,2.5,2.5,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0
+Estonian,Language Centre,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Estonian,LSE Law School,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Estonian,LSE Law School,PG Taught,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5
+Estonian,Management  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Estonian,Management  ,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Estonian,Mathematics  ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0
+Estonian,Mathematics  ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Estonian,Media and Communications,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Estonian,Methodology ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Estonian,Philosophy Logic and Scientific Method,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Estonian,Philosophy Logic and Scientific Method,PG Taught,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0
+Estonian,Psychological and Behavioural Science,UG Degree,0.0,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0
+Estonian,Psychological and Behavioural Science,PG Taught,2.5,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Estonian,School of Public Policy,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Estonian,Social Policy ,UG Degree,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Estonian,Sociology  ,UG Degree,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Estonian,Sociology  ,PG Taught,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Estonian,Statistics  ,UG Degree,2.5,2.5,2.5,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0
+Estonian,Statistics  ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Finnish,Accounting  ,UG Degree,2.5,0.0,0.0,6.0,0.0,0.0,2.5,0.0,0.0,6.0,0.0,0.0,2.5,0.0,0.0
+Finnish,Accounting  ,PG Taught,2.5,2.5,2.5,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,2.5,0.0,0.0
+Finnish,Anthropology  ,UG Degree,2.5,2.5,0.0,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0
+Finnish,Anthropology  ,PG Taught,5.0,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,0.0
+Finnish,Economic  History ,UG Degree,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Finnish,Economic  History ,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Finnish,Economics  ,UG Degree,10.0,2.5,0.0,7.0,0.0,0.0,6.0,0.0,0.0,7.0,0.0,0.0,2.5,0.0,0.0
+Finnish,Economics  ,PG Taught,2.5,2.5,0.0,2.5,0.0,0.0,2.5,2.5,2.5,5.0,2.5,2.5,2.5,2.5,0.0
+Finnish,European Institute,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,5.0,2.5,2.5,2.5,2.5,0.0,5.0,2.5,2.5
+Finnish,Finance  ,UG Degree,2.5,0.0,0.0,7.0,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,2.5
+Finnish,Finance  ,PG Taught,10.0,5.0,2.5,2.5,2.5,0.0,2.5,0.0,0.0,6.0,2.5,0.0,6.0,2.5,2.5
+Finnish,Gender Studies,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Finnish,Geography and Environment,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,5.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Finnish,Geography and Environment,PG Taught,2.5,2.5,2.5,7.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0
+Finnish,Government  ,UG Degree,6.0,0.0,0.0,6.0,0.0,0.0,7.0,0.0,0.0,8.0,2.5,0.0,6.0,2.5,2.5
+Finnish,Government  ,PG Taught,5.0,2.5,2.5,2.5,0.0,0.0,5.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+Finnish,International Development,PG Taught,2.5,2.5,2.5,5.0,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0,2.5,2.5,2.5
+Finnish,International  History ,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Finnish,International  History ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Finnish,International  Relations ,UG Degree,7.0,0.0,0.0,5.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0
+Finnish,International  Relations ,PG Taught,5.0,2.5,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Finnish,Language Centre,UG Degree,0.0,0.0,0.0,5.0,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Finnish,LSE Law School,UG Degree,12.0,2.5,0.0,13.0,2.5,2.5,8.0,0.0,0.0,7.0,2.5,2.5,2.5,0.0,0.0
+Finnish,LSE Law School,PG Taught,9.0,2.5,2.5,6.0,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5
+Finnish,Management  ,UG Degree,2.5,2.5,2.5,5.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Finnish,Management  ,PG Taught,6.0,2.5,2.5,7.0,2.5,0.0,9.0,7.0,2.5,2.5,0.0,0.0,2.5,2.5,0.0
+Finnish,Mathematics  ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Finnish,Mathematics  ,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0
+Finnish,Media and Communications,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0
+Finnish,Methodology ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Finnish,Philosophy Logic and Scientific Method,UG Degree,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Finnish,Philosophy Logic and Scientific Method,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0
+Finnish,Psychological and Behavioural Science,UG Degree,2.5,2.5,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Finnish,Psychological and Behavioural Science,PG Taught,6.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+Finnish,Social Policy  ,UG Degree,2.5,2.5,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Finnish,Social Policy  ,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,0.0
+Finnish,Sociology  ,UG Degree,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Finnish,Sociology  ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finnish,Statistics  ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Finnish,Statistics  ,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+French,Accounting  ,UG Degree,20.0,2.5,2.5,29.0,2.5,2.5,21.0,2.5,2.5,25.0,5.0,2.5,24.0,2.5,0.0
+French,Accounting  ,PG Taught,29.0,19.0,16.0,31.0,22.0,15.0,32.0,23.0,15.0,30.0,18.0,17.0,35.0,24.0,16.0
+French,Anthropology  Anthropology ,UG Degree,24.0,9.0,2.5,16.0,2.5,0.0,14.0,2.5,2.5,17.0,9.0,2.5,11.0,2.5,0.0
+French,Anthropology  Anthropology ,PG Taught,2.5,2.5,0.0,7.0,2.5,2.5,10.0,7.0,2.5,10.0,7.0,5.0,0.0,0.0,0.0
+French,Economic  History ,UG Degree,14.0,2.5,2.5,18.0,6.0,2.5,22.0,2.5,2.5,20.0,2.5,2.5,20.0,2.5,0.0
+French,Economic  History ,PG Taught,6.0,2.5,2.5,8.0,2.5,2.5,2.5,2.5,2.5,5.0,2.5,2.5,5.0,2.5,2.5
+French,Economics  ,UG Degree,70.0,2.5,2.5,96.0,2.5,2.5,92.0,6.0,2.5,76.0,6.0,2.5,84.0,2.5,2.5
+French,Economics  ,PG Taught,16.0,9.0,2.5,24.0,12.0,2.5,14.0,2.5,2.5,25.0,11.0,2.5,31.0,16.0,8.0
+French,European Institute,PG Taught,71.0,42.0,39.0,62.0,39.0,33.0,72.0,37.0,36.0,89.0,48.0,37.0,88.0,51.0,46.0
+French,Finance  ,UG Degree,28.0,8.0,2.5,37.0,5.0,2.5,41.0,2.5,2.5,35.0,2.5,2.5,41.0,8.0,2.5
+French,Finance  ,PG Taught,120.0,28.0,12.0,104.0,22.0,12.0,103.0,20.0,10.0,88.0,15.0,5.0,88.0,21.0,10.0
+French,Gender Studies,PG Taught,23.0,10.0,7.0,16.0,7.0,8.0,19.0,8.0,6.0,10.0,6.0,2.5,9.0,6.0,2.5
+French,Geography and Environment,UG Degree,46.0,16.0,2.5,29.0,5.0,2.5,23.0,2.5,0.0,33.0,2.5,2.5,17.0,2.5,2.5
+French,Geography and Environment,PG Taught,85.0,27.0,39.0,120.0,45.0,25.0,99.0,26.0,21.0,97.0,30.0,22.0,63.0,29.0,16.0
+French,Government  ,UG Degree,253.0,22.0,11.0,231.0,9.0,6.0,258.0,14.0,5.0,169.0,14.0,5.0,165.0,9.0,2.5
+French,Government  ,PG Taught,57.0,14.0,11.0,85.0,26.0,17.0,90.0,24.0,12.0,80.0,24.0,15.0,56.0,24.0,16.0
+French,Health Policy ,PG Taught,14.0,11.0,2.5,15.0,10.0,7.0,2.5,2.5,2.5,6.0,2.5,2.5,15.0,7.0,5.0
+French,International Development,PG Taught,59.0,18.0,14.0,66.0,24.0,16.0,80.0,31.0,24.0,56.0,23.0,13.0,45.0,21.0,17.0
+French,International  History ,UG Degree,50.0,11.0,2.5,56.0,19.0,11.0,36.0,2.5,2.5,53.0,15.0,2.5,44.0,2.5,2.5
+French,International  History ,PG Taught,12.0,7.0,5.0,15.0,8.0,6.0,10.0,7.0,5.0,9.0,5.0,7.0,15.0,11.0,8.0
+French,International  Relations ,UG Degree,103.0,9.0,5.0,78.0,9.0,5.0,105.0,14.0,2.5,82.0,24.0,13.0,78.0,27.0,7.0
+French,International  Relations ,PG Taught,69.0,18.0,21.0,79.0,32.0,21.0,71.0,24.0,25.0,73.0,20.0,20.0,68.0,18.0,15.0
+French,Language Centre,UG Degree,33.0,5.0,2.5,37.0,7.0,2.5,20.0,13.0,6.0,26.0,12.0,5.0,7.0,5.0,2.5
+French,LSE Law School,UG Degree,50.0,6.0,2.5,37.0,2.5,2.5,53.0,5.0,2.5,45.0,2.5,2.5,29.0,2.5,0.0
+French,LSE Law School,PG Taught,78.0,17.0,8.0,52.0,14.0,9.0,42.0,18.0,5.0,39.0,9.0,5.0,38.0,17.0,6.0
+French,Management  ,UG Degree,256.0,58.0,21.0,257.0,63.0,35.0,200.0,19.0,8.0,155.0,18.0,11.0,147.0,25.0,9.0
+French,Management  ,PG Taught,168.0,66.0,34.0,177.0,66.0,28.0,162.0,33.0,16.0,137.0,46.0,23.0,154.0,45.0,22.0
+French,Mathematics  ,UG Degree,53.0,11.0,2.5,44.0,11.0,5.0,47.0,2.5,2.5,42.0,2.5,2.5,78.0,2.5,2.5
+French,Mathematics  ,PG Taught,19.0,10.0,2.5,27.0,13.0,6.0,21.0,9.0,2.5,16.0,6.0,2.5,19.0,14.0,5.0
+French,Media and Communications,PG Taught,50.0,19.0,12.0,48.0,14.0,10.0,49.0,19.0,13.0,26.0,10.0,6.0,21.0,8.0,2.5
+French,Methodology ,PG Taught,9.0,2.5,2.5,8.0,2.5,0.0,6.0,0.0,0.0,13.0,5.0,2.5,2.5,2.5,2.5
+French,Philosophy Logic and Scientific Method,UG Degree,137.0,12.0,2.5,113.0,16.0,7.0,75.0,6.0,2.5,64.0,5.0,2.5,66.0,7.0,2.5
+French,Philosophy Logic and Scientific Method,PG Taught,7.0,2.5,2.5,9.0,2.5,2.5,8.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0
+French,Psychological and Behavioural Science,UG Degree,16.0,2.5,2.5,19.0,6.0,2.5,9.0,2.5,0.0,11.0,2.5,2.5,7.0,2.5,0.0
+French,Psychological and Behavioural Science,PG Taught,26.0,7.0,2.5,13.0,2.5,2.5,23.0,5.0,2.5,13.0,2.5,2.5,11.0,2.5,2.5
+French,School of Public Policy,PG Taught,30.0,14.0,2.5,27.0,17.0,2.5,16.0,11.0,2.5,34.0,19.0,14.0,36.0,20.0,18.0
+French,Social Policy  ,UG Degree,46.0,13.0,6.0,35.0,10.0,2.5,46.0,2.5,2.5,44.0,7.0,2.5,23.0,2.5,2.5
+French,Social Policy  ,PG Taught,30.0,9.0,7.0,35.0,16.0,12.0,29.0,13.0,5.0,22.0,12.0,5.0,15.0,2.5,2.5
+French,Sociology  ,UG Degree,13.0,7.0,2.5,11.0,6.0,2.5,9.0,2.5,2.5,6.0,2.5,2.5,2.5,0.0,0.0
+French,Sociology  ,PG Taught,26.0,10.0,2.5,31.0,12.0,7.0,37.0,18.0,10.0,31.0,14.0,9.0,23.0,8.0,5.0
+French,Statistics  ,UG Degree,32.0,2.5,2.5,33.0,2.5,2.5,32.0,2.5,2.5,24.0,2.5,2.5,34.0,11.0,2.5
+French,Statistics  ,PG Taught,23.0,2.5,0.0,34.0,2.5,2.5,23.0,2.5,0.0,29.0,2.5,0.0,17.0,2.5,2.5
+German,Accounting  ,UG Degree,24.0,5.0,2.5,14.0,2.5,2.5,17.0,0.0,0.0,14.0,2.5,2.5,13.0,0.0,0.0
+German,Accounting  ,PG Taught,35.0,18.0,12.0,44.0,30.0,13.0,26.0,16.0,10.0,29.0,11.0,2.5,38.0,13.0,8.0
+German,Anthropology  ,UG Degree,10.0,2.5,0.0,7.0,2.5,0.0,9.0,2.5,0.0,2.5,0.0,0.0,10.0,2.5,2.5
+German,Anthropology  ,PG Taught,2.5,2.5,2.5,8.0,2.5,2.5,6.0,2.5,2.5,6.0,2.5,2.5,5.0,2.5,2.5
+German,Economic  History ,UG Degree,12.0,2.5,2.5,14.0,2.5,2.5,25.0,5.0,2.5,14.0,2.5,0.0,16.0,2.5,0.0
+German,Economic  History ,PG Taught,22.0,15.0,10.0,22.0,14.0,10.0,10.0,8.0,5.0,20.0,13.0,8.0,17.0,9.0,2.5
+German,Economics  ,UG Degree,60.0,6.0,2.5,64.0,2.5,0.0,57.0,2.5,2.5,67.0,5.0,2.5,72.0,2.5,2.5
+German,Economics  ,PG Taught,48.0,24.0,11.0,74.0,42.0,17.0,66.0,33.0,15.0,64.0,38.0,9.0,41.0,20.0,9.0
+German,European Institute,PG Taught,72.0,35.0,23.0,50.0,29.0,23.0,76.0,38.0,23.0,70.0,41.0,25.0,48.0,30.0,18.0
+German,Finance  ,UG Degree,13.0,2.5,2.5,8.0,0.0,0.0,11.0,2.5,2.5,17.0,5.0,2.5,20.0,5.0,2.5
+German,Finance  ,PG Taught,101.0,35.0,21.0,109.0,39.0,26.0,76.0,32.0,12.0,105.0,45.0,29.0,117.0,46.0,20.0
+German,Gender Studies,PG Taught,9.0,2.5,2.5,12.0,6.0,2.5,20.0,8.0,2.5,14.0,5.0,2.5,10.0,5.0,2.5
+German,Geography and Environment,UG Degree,17.0,6.0,2.5,27.0,12.0,2.5,20.0,0.0,0.0,19.0,2.5,2.5,19.0,2.5,0.0
+German,Geography and Environment,PG Taught,55.0,15.0,7.0,68.0,25.0,12.0,66.0,18.0,11.0,85.0,29.0,13.0,64.0,23.0,11.0
+German,Government  ,UG Degree,75.0,2.5,2.5,55.0,7.0,5.0,67.0,2.5,2.5,56.0,7.0,2.5,53.0,14.0,5.0
+German,Government  ,PG Taught,72.0,31.0,21.0,60.0,28.0,13.0,79.0,41.0,24.0,69.0,33.0,17.0,48.0,22.0,16.0
+German,Health Policy ,PG Taught,15.0,8.0,2.5,19.0,14.0,10.0,11.0,7.0,2.5,19.0,11.0,5.0,13.0,5.0,2.5
+German,International Development,PG Taught,44.0,20.0,12.0,45.0,26.0,19.0,43.0,17.0,11.0,25.0,17.0,12.0,53.0,18.0,12.0
+German,International  History ,UG Degree,15.0,5.0,2.5,13.0,5.0,2.5,12.0,2.5,0.0,22.0,5.0,2.5,21.0,2.5,2.5
+German,International  History ,PG Taught,22.0,12.0,9.0,8.0,8.0,10.0,14.0,8.0,5.0,16.0,5.0,2.5,21.0,11.0,8.0
+German,International  Relations ,UG Degree,35.0,2.5,0.0,31.0,0.0,0.0,23.0,2.5,2.5,22.0,5.0,2.5,21.0,5.0,2.5
+German,International  Relations ,PG Taught,115.0,33.0,21.0,80.0,45.0,30.0,93.0,39.0,25.0,91.0,39.0,30.0,68.0,35.0,22.0
+German,Language Centre,UG Degree,9.0,2.5,2.5,11.0,8.0,2.5,10.0,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0
+German,LSE Law School,UG Degree,39.0,8.0,2.5,42.0,8.0,2.5,32.0,8.0,2.5,34.0,2.5,0.0,35.0,2.5,2.5
+German,LSE Law School,PG Taught,73.0,35.0,21.0,63.0,36.0,13.0,61.0,32.0,14.0,59.0,32.0,12.0,82.0,49.0,19.0
+German,Management  ,UG Degree,63.0,9.0,6.0,45.0,9.0,2.5,63.0,2.5,2.5,64.0,6.0,2.5,52.0,5.0,2.5
+German,Management  ,PG Taught,197.0,92.0,52.0,186.0,75.0,47.0,177.0,80.0,42.0,141.0,57.0,35.0,153.0,66.0,46.0
+German,Mathematics  ,UG Degree,14.0,2.5,2.5,24.0,10.0,5.0,13.0,2.5,0.0,14.0,2.5,2.5,20.0,2.5,2.5
+German,Mathematics  ,PG Taught,18.0,8.0,2.5,15.0,2.5,2.5,9.0,2.5,0.0,14.0,8.0,2.5,8.0,2.5,0.0
+German,Media and Communications,PG Taught,29.0,11.0,7.0,22.0,7.0,2.5,30.0,7.0,2.5,23.0,8.0,6.0,19.0,7.0,5.0
+German,Methodology ,PG Taught,19.0,6.0,2.5,21.0,8.0,2.5,16.0,5.0,0.0,20.0,9.0,2.5,19.0,12.0,5.0
+German,Philosophy Logic and Scientific Method,UG Degree,108.0,11.0,2.5,71.0,5.0,2.5,77.0,2.5,2.5,55.0,2.5,2.5,59.0,5.0,2.5
+German,Philosophy Logic and Scientific Method,PG Taught,33.0,18.0,12.0,18.0,5.0,2.5,27.0,12.0,9.0,23.0,8.0,6.0,11.0,5.0,2.5
+German,Psychological and Behavioural Science,UG Degree,18.0,2.5,2.5,18.0,7.0,0.0,21.0,2.5,2.5,14.0,2.5,0.0,15.0,2.5,2.5
+German,Psychological and Behavioural Science,PG Taught,85.0,31.0,21.0,88.0,40.0,27.0,67.0,30.0,18.0,92.0,33.0,23.0,83.0,33.0,24.0
+German,School of Public Policy,PG Taught,15.0,10.0,8.0,14.0,8.0,2.5,17.0,9.0,5.0,28.0,12.0,7.0,17.0,8.0,8.0
+German,Social Policy  ,UG Degree,25.0,8.0,2.5,8.0,2.5,0.0,13.0,0.0,0.0,17.0,2.5,0.0,14.0,2.5,2.5
+German,Social Policy  ,PG Taught,25.0,8.0,7.0,9.0,6.0,0.0,20.0,11.0,5.0,20.0,7.0,2.5,14.0,9.0,5.0
+German,Sociology  ,UG Degree,0.0,0.0,0.0,5.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+German,Sociology  ,PG Taught,48.0,23.0,13.0,39.0,22.0,11.0,49.0,23.0,13.0,33.0,19.0,6.0,29.0,21.0,8.0
+German,Statistics  ,UG Degree,5.0,0.0,0.0,8.0,2.5,0.0,12.0,2.5,2.5,13.0,2.5,0.0,12.0,0.0,0.0
+German,Statistics  ,PG Taught,46.0,6.0,2.5,34.0,2.5,2.5,21.0,2.5,2.5,21.0,2.5,0.0,19.0,6.0,2.5
+Irish,Accounting  ,UG Degree,13.0,0.0,0.0,8.0,2.5,2.5,14.0,2.5,2.5,9.0,2.5,0.0,11.0,2.5,0.0
+Irish,Accounting  ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0
+Irish,Anthropology  ,UG Degree,7.0,2.5,0.0,11.0,2.5,2.5,5.0,2.5,2.5,2.5,2.5,0.0,2.5,0.0,0.0
+Irish,Anthropology  ,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5
+Irish,Economic  History ,UG Degree,6.0,2.5,0.0,5.0,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,10.0,2.5,2.5
+Irish,Economic  History ,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0
+Irish,Economics  ,UG Degree,15.0,2.5,2.5,27.0,2.5,0.0,36.0,2.5,2.5,26.0,2.5,2.5,18.0,2.5,2.5
+Irish,Economics  ,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,11.0,2.5,0.0,5.0,2.5,2.5,5.0,2.5,2.5
+Irish,European Institute,PG Taught,5.0,2.5,2.5,8.0,5.0,2.5,2.5,2.5,2.5,6.0,2.5,2.5,6.0,2.5,2.5
+Irish,Finance  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,10.0,0.0,0.0,7.0,2.5,0.0,9.0,0.0,0.0
+Irish,Finance  ,PG Taught,12.0,2.5,0.0,17.0,2.5,2.5,11.0,2.5,0.0,24.0,6.0,5.0,13.0,2.5,0.0
+Irish,Gender Studies,PG Taught,2.5,0.0,0.0,5.0,2.5,2.5,10.0,8.0,6.0,2.5,2.5,2.5,2.5,2.5,0.0
+Irish,Geography and Environment,UG Degree,2.5,0.0,0.0,8.0,2.5,0.0,5.0,2.5,0.0,7.0,2.5,0.0,5.0,2.5,0.0
+Irish,Geography and Environment,PG Taught,13.0,7.0,2.5,10.0,2.5,2.5,20.0,9.0,6.0,5.0,2.5,2.5,7.0,2.5,2.5
+Irish,Government  ,UG Degree,12.0,2.5,0.0,17.0,2.5,2.5,22.0,2.5,2.5,20.0,2.5,2.5,26.0,7.0,2.5
+Irish,Government  ,PG Taught,10.0,5.0,2.5,8.0,2.5,2.5,2.5,0.0,0.0,8.0,6.0,2.5,9.0,5.0,2.5
+Irish,Health Policy ,PG Taught,2.5,2.5,0.0,7.0,5.0,2.5,5.0,2.5,2.5,2.5,2.5,2.5,5.0,2.5,2.5
+Irish,International Development,PG Taught,11.0,2.5,2.5,11.0,2.5,2.5,14.0,8.0,2.5,2.5,2.5,2.5,2.5,0.0,0.0
+Irish,International  History ,UG Degree,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0,9.0,2.5,2.5,9.0,2.5,0.0
+Irish,International  History ,PG Taught,6.0,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5,9.0,2.5,2.5,2.5,2.5,2.5
+Irish,International  Relations ,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,5.0,2.5,2.5,2.5,0.0,0.0
+Irish,International  Relations ,PG Taught,10.0,2.5,2.5,10.0,5.0,2.5,10.0,2.5,0.0,7.0,2.5,0.0,8.0,2.5,2.5
+Irish,Language Centre,UG Degree,2.5,2.5,0.0,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Irish,LSE Law School,UG Degree,20.0,2.5,0.0,23.0,6.0,2.5,25.0,5.0,2.5,30.0,6.0,2.5,21.0,2.5,2.5
+Irish,LSE Law School,PG Taught,24.0,12.0,5.0,25.0,17.0,6.0,31.0,26.0,11.0,15.0,6.0,2.5,17.0,13.0,6.0
+Irish,Management  ,UG Degree,5.0,2.5,0.0,6.0,2.5,0.0,9.0,0.0,0.0,7.0,2.5,2.5,5.0,0.0,0.0
+Irish,Management  ,PG Taught,11.0,2.5,2.5,19.0,7.0,2.5,8.0,6.0,2.5,13.0,5.0,2.5,9.0,2.5,2.5
+Irish,Mathematics  ,UG Degree,2.5,2.5,0.0,10.0,2.5,2.5,12.0,2.5,2.5,11.0,2.5,0.0,10.0,0.0,0.0
+Irish,Mathematics  ,PG Taught,6.0,2.5,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5,2.5,0.0,0.0
+Irish,Media and Communications,PG Taught,7.0,2.5,2.5,8.0,6.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5
+Irish,Methodology ,PG Taught,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,2.5,2.5,2.5
+Irish,Philosophy Logic and Scientific Method,UG Degree,12.0,2.5,0.0,14.0,2.5,2.5,13.0,2.5,0.0,15.0,2.5,2.5,13.0,2.5,2.5
+Irish,Philosophy Logic and Scientific Method,PG Taught,2.5,2.5,2.5,6.0,2.5,0.0,2.5,2.5,0.0,6.0,2.5,2.5,8.0,2.5,2.5
+Irish,Psychological and Behavioural Science,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,6.0,2.5,0.0,2.5,2.5,0.0
+Irish,Psychological and Behavioural Science,PG Taught,5.0,2.5,2.5,12.0,2.5,2.5,9.0,2.5,2.5,11.0,2.5,2.5,9.0,6.0,2.5
+Irish,School of Public Policy,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5
+Irish,Social Policy  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,5.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Irish,Social Policy  ,PG Taught,7.0,2.5,2.5,5.0,2.5,2.5,7.0,2.5,2.5,8.0,6.0,2.5,2.5,2.5,2.5
+Irish,Sociology  ,UG Degree,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,0.0,0.0
+Irish,Sociology  ,PG Taught,7.0,2.5,2.5,9.0,2.5,2.5,9.0,5.0,2.5,2.5,2.5,2.5,12.0,7.0,2.5
+Irish,Statistics  ,UG Degree,9.0,2.5,2.5,11.0,2.5,0.0,7.0,2.5,2.5,16.0,5.0,2.5,16.0,2.5,2.5
+Irish,Statistics  ,PG Taught,2.5,2.5,0.0,8.0,2.5,2.5,2.5,2.5,0.0,6.0,2.5,0.0,2.5,2.5,2.5
+Italian,Accounting  ,UG Degree,30.0,2.5,2.5,34.0,2.5,2.5,25.0,2.5,0.0,21.0,2.5,2.5,28.0,2.5,0.0
+Italian,Accounting  ,PG Taught,36.0,17.0,12.0,29.0,14.0,8.0,31.0,18.0,10.0,22.0,8.0,2.5,27.0,9.0,2.5
+Italian,Anthropology  ,UG Degree,12.0,2.5,2.5,11.0,2.5,0.0,13.0,2.5,2.5,7.0,2.5,0.0,10.0,2.5,2.5
+Italian,Anthropology  ,PG Taught,9.0,5.0,2.5,9.0,2.5,2.5,6.0,2.5,2.5,5.0,2.5,2.5,0.0,0.0,0.0
+Italian,Economic  History ,UG Degree,12.0,2.5,2.5,19.0,2.5,2.5,25.0,2.5,2.5,22.0,2.5,2.5,19.0,2.5,2.5
+Italian,Economic  History ,PG Taught,11.0,6.0,2.5,13.0,6.0,2.5,10.0,2.5,2.5,15.0,6.0,5.0,8.0,2.5,2.5
+Italian,Economics  ,UG Degree,84.0,6.0,2.5,59.0,0.0,0.0,58.0,0.0,0.0,68.0,5.0,2.5,51.0,2.5,0.0
+Italian,Economics  ,PG Taught,61.0,19.0,5.0,58.0,17.0,7.0,45.0,14.0,5.0,46.0,21.0,11.0,35.0,12.0,5.0
+Italian,European Institute,PG Taught,95.0,53.0,41.0,63.0,46.0,51.0,48.0,23.0,29.0,56.0,33.0,32.0,74.0,46.0,37.0
+Italian,Finance  ,UG Degree,18.0,2.5,2.5,18.0,2.5,2.5,28.0,2.5,2.5,35.0,2.5,2.5,28.0,2.5,2.5
+Italian,Finance  ,PG Taught,122.0,27.0,15.0,127.0,33.0,22.0,130.0,36.0,19.0,112.0,26.0,13.0,124.0,35.0,23.0
+Italian,Gender Studies,PG Taught,20.0,8.0,6.0,15.0,2.5,2.5,12.0,2.5,2.5,13.0,7.0,2.5,10.0,5.0,2.5
+Italian,Geography and Environment,UG Degree,10.0,2.5,2.5,9.0,2.5,0.0,17.0,2.5,2.5,16.0,2.5,0.0,10.0,2.5,2.5
+Italian,Geography and Environment,PG Taught,71.0,20.0,12.0,51.0,17.0,9.0,44.0,10.0,7.0,36.0,9.0,2.5,57.0,19.0,11.0
+Italian,Government  ,UG Degree,79.0,7.0,5.0,67.0,5.0,2.5,84.0,6.0,2.5,62.0,6.0,2.5,66.0,6.0,2.5
+Italian,Government  ,PG Taught,63.0,21.0,13.0,53.0,24.0,14.0,40.0,16.0,10.0,36.0,19.0,9.0,31.0,13.0,6.0
+Italian,Health Policy ,PG Taught,13.0,7.0,5.0,11.0,6.0,2.5,13.0,7.0,6.0,2.5,2.5,2.5,5.0,2.5,2.5
+Italian,International Development,PG Taught,39.0,14.0,8.0,70.0,31.0,20.0,43.0,16.0,14.0,40.0,21.0,19.0,41.0,16.0,14.0
+Italian,International  History ,UG Degree,25.0,6.0,2.5,14.0,2.5,2.5,17.0,2.5,0.0,18.0,5.0,2.5,23.0,2.5,2.5
+Italian,International  History ,PG Taught,11.0,8.0,6.0,17.0,8.0,7.0,15.0,8.0,2.5,11.0,5.0,5.0,10.0,5.0,6.0
+Italian,International  Relations ,UG Degree,43.0,2.5,2.5,43.0,2.5,2.5,19.0,2.5,2.5,25.0,2.5,2.5,26.0,9.0,2.5
+Italian,International  Relations ,PG Taught,57.0,14.0,11.0,61.0,22.0,17.0,50.0,13.0,11.0,48.0,17.0,14.0,35.0,8.0,5.0
+Italian,Language Centre,UG Degree,19.0,2.5,2.5,16.0,7.0,2.5,17.0,2.5,0.0,14.0,7.0,2.5,6.0,2.5,0.0
+Italian,LSE Law School,UG Degree,45.0,8.0,5.0,53.0,6.0,2.5,38.0,2.5,2.5,34.0,2.5,2.5,24.0,2.5,2.5
+Italian,LSE Law School,PG Taught,43.0,15.0,5.0,35.0,17.0,11.0,29.0,14.0,6.0,21.0,11.0,2.5,15.0,11.0,6.0
+Italian,Management  ,UG Degree,87.0,11.0,2.5,75.0,2.5,2.5,85.0,6.0,2.5,67.0,11.0,5.0,55.0,9.0,2.5
+Italian,Management  ,PG Taught,122.0,38.0,25.0,151.0,43.0,24.0,122.0,26.0,10.0,129.0,41.0,19.0,117.0,35.0,19.0
+Italian,Mathematics  ,UG Degree,23.0,2.5,2.5,12.0,2.5,2.5,17.0,2.5,0.0,20.0,0.0,0.0,18.0,2.5,0.0
+Italian,Mathematics  ,PG Taught,25.0,8.0,2.5,25.0,2.5,0.0,12.0,2.5,2.5,11.0,2.5,2.5,21.0,7.0,2.5
+Italian,Media and Communications,PG Taught,34.0,18.0,11.0,48.0,22.0,12.0,31.0,10.0,2.5,36.0,13.0,9.0,24.0,10.0,5.0
+Italian,Methodology ,PG Taught,8.0,2.5,2.5,13.0,2.5,2.5,8.0,2.5,2.5,8.0,2.5,2.5,11.0,2.5,2.5
+Italian,Philosophy Logic and Scientific Method,UG Degree,71.0,0.0,0.0,63.0,6.0,2.5,52.0,2.5,2.5,43.0,2.5,2.5,35.0,2.5,2.5
+Italian,Philosophy Logic and Scientific Method,PG Taught,19.0,7.0,2.5,16.0,9.0,5.0,18.0,10.0,7.0,16.0,7.0,2.5,19.0,8.0,2.5
+Italian,Psychological and Behavioural Science,UG Degree,11.0,2.5,0.0,8.0,2.5,2.5,10.0,2.5,2.5,14.0,0.0,0.0,14.0,2.5,2.5
+Italian,Psychological and Behavioural Science,PG Taught,34.0,10.0,7.0,28.0,6.0,5.0,25.0,6.0,2.5,28.0,10.0,5.0,15.0,5.0,2.5
+Italian,School of Public Policy,PG Taught,13.0,8.0,2.5,14.0,7.0,2.5,6.0,2.5,2.5,22.0,8.0,5.0,18.0,7.0,8.0
+Italian,Social Policy  ,UG Degree,18.0,2.5,0.0,16.0,2.5,2.5,13.0,2.5,0.0,18.0,2.5,0.0,10.0,0.0,0.0
+Italian,Social Policy  ,PG Taught,32.0,11.0,10.0,24.0,13.0,7.0,35.0,21.0,11.0,19.0,8.0,6.0,21.0,10.0,9.0
+Italian,Sociology  ,UG Degree,2.5,2.5,0.0,6.0,2.5,0.0,5.0,2.5,2.5,2.5,2.5,0.0,2.5,0.0,0.0
+Italian,Sociology  ,PG Taught,33.0,15.0,6.0,31.0,14.0,5.0,36.0,12.0,8.0,34.0,13.0,7.0,23.0,10.0,5.0
+Italian,Statistics  ,UG Degree,9.0,2.5,0.0,8.0,2.5,2.5,13.0,0.0,0.0,14.0,2.5,2.5,15.0,2.5,2.5
+Italian,Statistics  ,PG Taught,29.0,2.5,2.5,34.0,2.5,0.0,31.0,2.5,2.5,11.0,2.5,2.5,25.0,9.0,2.5
+Latvian,Accounting  ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Latvian,Accounting  ,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Latvian,Anthropology ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Latvian,Economic  History ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Latvian,Economic  History ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Latvian,Economics  ,UG Degree,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Latvian,Economics  ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Latvian,European Institute,PG Taught,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,2.5
+Latvian,Finance  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Latvian,Finance  ,PG Taught,2.5,2.5,2.5,6.0,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Latvian,Gender Studies,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5
+Latvian,Geography and Environment,UG Degree,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Latvian,Geography and Environment,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Latvian,Government  ,UG Degree,5.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Latvian,Government  ,PG Taught,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Latvian,International Development,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Latvian,International Development,UG Degree,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Latvian,International  Relations ,UG Degree,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Latvian,International  Relations ,PG Taught,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Latvian,Language Centre,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Latvian,LSE Law School,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Latvian,LSE Law School,PG Taught,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5
+Latvian,Management  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,5.0,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0
+Latvian,Management  ,PG Taught,2.5,0.0,0.0,5.0,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Latvian,Mathematics  ,UG Degree,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Latvian,Mathematics  ,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Latvian,Media and Communications,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0
+Latvian,Methodology ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Latvian,Philosophy Logic and Scientific Method,UG Degree,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Latvian,Philosophy Logic and Scientific Method,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Latvian,Psychological and Behavioural Science,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Latvian,Psychological and Behavioural Science,PG Taught,2.5,2.5,2.5,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Latvian,Social Policy  Social Policy ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Latvian,Social Policy  Social Policy ,PG Taught,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Latvian,Sociology  ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Latvian,Sociology  ,PG Taught,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0
+Latvian,Statistics  ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Latvian,Statistics  ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Lithuanian,Accounting  ,UG Degree,2.5,2.5,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0,5.0,2.5,0.0
+Lithuanian,Accounting  ,PG Taught,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lithuanian,Anthropology ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Lithuanian,Economic  History ,UG Degree,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Lithuanian,Economic  History ,PG Taught,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Lithuanian,Economics  ,UG Degree,11.0,0.0,0.0,11.0,0.0,0.0,9.0,0.0,0.0,9.0,0.0,0.0,7.0,0.0,0.0
+Lithuanian,Economics  ,PG Taught,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0
+Lithuanian,European Institute,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0
+Lithuanian,Finance  ,UG Degree,6.0,2.5,0.0,8.0,2.5,2.5,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Lithuanian,Finance  ,PG Taught,0.0,0.0,0.0,7.0,2.5,2.5,5.0,2.5,0.0,2.5,2.5,2.5,2.5,2.5,0.0
+Lithuanian,Gender Studies,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0
+Lithuanian,Geography and Environment,UG Degree,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Lithuanian,Geography and Environment,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,8.0,2.5,2.5,2.5,2.5,2.5
+Lithuanian,Government  ,UG Degree,11.0,2.5,0.0,13.0,0.0,0.0,9.0,2.5,0.0,6.0,0.0,0.0,10.0,2.5,2.5
+Lithuanian,Government  ,PG Taught,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Lithuanian,Health Policy ,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0
+Lithuanian,International Development,PG Taught,2.5,2.5,0.0,2.5,2.5,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Lithuanian,International  History ,UG Degree,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,2.5,0.0,5.0,2.5,2.5
+Lithuanian,International  History ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Lithuanian,International  Relations ,UG Degree,6.0,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Lithuanian,International  Relations ,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Lithuanian,Language Centre,UG Degree,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Lithuanian,LSE Law School,UG Degree,5.0,2.5,2.5,10.0,2.5,2.5,8.0,0.0,0.0,10.0,0.0,0.0,2.5,0.0,0.0
+Lithuanian,LSE Law School,PG Taught,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Lithuanian,Management  ,UG Degree,8.0,2.5,0.0,2.5,0.0,0.0,5.0,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0
+Lithuanian,Management  ,PG Taught,5.0,2.5,2.5,7.0,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5,2.5,0.0,0.0
+Lithuanian,Mathematics  ,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Lithuanian,Mathematics  ,PG Taught,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lithuanian,Media and Communications,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0
+Lithuanian,Philosophy Logic and Scientific Method,UG Degree,7.0,0.0,0.0,6.0,0.0,0.0,5.0,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0
+Lithuanian,Philosophy Logic and Scientific Method,PG Taught,0.0,0.0,0.0,2.5,2.5,0.0,2.5,2.5,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Lithuanian,Psychological and Behavioural Science,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Lithuanian,Psychological and Behavioural Science,PG Taught,5.0,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5
+Lithuanian,School of Public Policy,PG Taught,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lithuanian,Social Policy  ,UG Degree,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Lithuanian,Social Policy  ,PG Taught,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,2.5,2.5,2.5
+Lithuanian,Sociology  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0
+Lithuanian,Sociology  ,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0
+Lithuanian,Statistics  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Lithuanian,Statistics  ,PG Taught,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Maltese,Anthropology ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Maltese,Economic  History ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maltese,Economic  History ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maltese,Economics  ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Maltese,Economics  ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Maltese,European Institute,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0
+Maltese,Finance  ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5
+Maltese,Finance  ,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Maltese,Geography and Environment,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Maltese,Geography and Environment,PG Taught,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0
+Maltese,Government  ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maltese,Government  ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0
+Maltese,International  History ,UG Degree,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Maltese,International  History ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5,0.0
+Maltese,International  Relations ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Maltese,International  Relations ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maltese,LSE Law School,UG Degree,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Maltese,LSE Law School,PG Taught,7.0,0.0,0.0,5.0,2.5,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0
+Maltese,Management  ,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Maltese,Management  ,PG Taught,2.5,2.5,0.0,2.5,0.0,0.0,6.0,2.5,2.5,0.0,0.0,0.0,2.5,0.0,0.0
+Maltese,Mathematics  ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maltese,Mathematics  ,PG Taught,0.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maltese,"Philosophy, ..  Psychologic.. ",UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0
+Maltese,"Philosophy, ..  Psychologic.. ",PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Maltese,Social Policy  ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Maltese,Social Policy  ,PG Taught,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Maltese,Sociology  ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maltese,Sociology  ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Maltese,Statistics  ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Maltese,Statistics  ,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Polish,Accounting  ,UG Degree,19.0,0.0,2.5,26.0,6.0,5.0,10.0,2.5,2.5,10.0,2.5,0.0,19.0,6.0,2.5
+Polish,Accounting  ,PG Taught,2.5,2.5,2.5,5.0,2.5,2.5,2.5,0.0,0.0,7.0,2.5,2.5,5.0,2.5,2.5
+Polish,Anthropology  ,UG Degree,12.0,6.0,0.0,2.5,2.5,2.5,11.0,2.5,0.0,2.5,0.0,0.0,10.0,5.0,2.5
+Polish,Anthropology  ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+Polish,Economic  History ,UG Degree,9.0,0.0,0.0,9.0,2.5,2.5,9.0,0.0,0.0,2.5,2.5,0.0,6.0,0.0,0.0
+Polish,Economic  History ,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5
+Polish,Economics  ,UG Degree,62.0,2.5,2.5,62.0,2.5,2.5,31.0,2.5,2.5,35.0,0.0,0.0,30.0,2.5,2.5
+Polish,Economics  ,PG Taught,8.0,2.5,2.5,8.0,2.5,0.0,2.5,0.0,0.0,2.5,2.5,0.0,11.0,2.5,0.0
+Polish,European Institute,PG Taught,2.5,2.5,2.5,8.0,6.0,6.0,11.0,2.5,5.0,11.0,9.0,2.5,21.0,13.0,10.0
+Polish,Finance  ,UG Degree,14.0,2.5,0.0,11.0,2.5,2.5,11.0,2.5,2.5,9.0,7.0,2.5,12.0,2.5,2.5
+Polish,Finance  ,PG Taught,13.0,2.5,2.5,17.0,5.0,2.5,22.0,2.5,2.5,17.0,2.5,2.5,20.0,2.5,2.5
+Polish,Gender Studies,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+Polish,Geography and Environment,UG Degree,14.0,5.0,0.0,10.0,5.0,2.5,12.0,0.0,0.0,5.0,2.5,2.5,10.0,2.5,0.0
+Polish,Geography and Environment,PG Taught,13.0,2.5,2.5,9.0,2.5,2.5,11.0,2.5,0.0,11.0,2.5,0.0,9.0,2.5,2.5
+Polish,Government  ,UG Degree,57.0,2.5,2.5,57.0,7.0,2.5,32.0,5.0,2.5,30.0,6.0,2.5,21.0,2.5,2.5
+Polish,Government  ,PG Taught,10.0,2.5,0.0,8.0,2.5,2.5,7.0,2.5,2.5,10.0,2.5,2.5,8.0,2.5,2.5
+Polish,Health Policy ,PG Taught,2.5,2.5,0.0,0.0,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5
+Polish,International Development,PG Taught,9.0,2.5,2.5,7.0,2.5,2.5,6.0,2.5,2.5,5.0,2.5,2.5,6.0,2.5,0.0
+Polish,International  History ,UG Degree,20.0,5.0,0.0,5.0,2.5,2.5,9.0,2.5,0.0,19.0,6.0,0.0,11.0,2.5,2.5
+Polish,International  History ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0
+Polish,International  Relations ,UG Degree,16.0,0.0,0.0,19.0,2.5,2.5,17.0,2.5,0.0,12.0,2.5,0.0,8.0,2.5,0.0
+Polish,International  Relations ,PG Taught,5.0,0.0,0.0,5.0,2.5,2.5,2.5,2.5,2.5,9.0,2.5,2.5,12.0,2.5,2.5
+Polish,Language Centre,UG Degree,12.0,2.5,0.0,8.0,2.5,2.5,9.0,2.5,2.5,2.5,2.5,2.5,7.0,2.5,2.5
+Polish,LSE Law School,UG Degree,64.0,10.0,2.5,52.0,11.0,5.0,32.0,2.5,2.5,31.0,8.0,2.5,35.0,11.0,5.0
+Polish,LSE Law School,PG Taught,16.0,5.0,2.5,10.0,5.0,2.5,9.0,2.5,2.5,12.0,2.5,2.5,8.0,7.0,2.5
+Polish,Management  Management ,UG Degree,50.0,15.0,7.0,46.0,16.0,7.0,34.0,2.5,2.5,27.0,6.0,2.5,22.0,2.5,2.5
+Polish,Management  Management ,PG Taught,20.0,7.0,2.5,34.0,10.0,6.0,21.0,9.0,2.5,22.0,5.0,2.5,24.0,6.0,5.0
+Polish,Mathematics  ,UG Degree,24.0,5.0,2.5,17.0,2.5,2.5,14.0,2.5,2.5,8.0,2.5,2.5,11.0,2.5,2.5
+Polish,Mathematics  ,PG Taught,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5,5.0,2.5,0.0,2.5,0.0,0.0
+Polish,Media and Communications,PG Taught,17.0,7.0,5.0,2.5,2.5,0.0,7.0,0.0,0.0,10.0,2.5,2.5,2.5,2.5,0.0
+Polish,Methodology ,PG Taught,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5,10.0,2.5,2.5
+Polish,Philosophy Logic and Scientific Method,UG Degree,34.0,7.0,5.0,32.0,6.0,2.5,18.0,2.5,0.0,13.0,2.5,0.0,11.0,2.5,2.5
+Polish,Philosophy Logic and Scientific Method,PG Taught,7.0,2.5,2.5,10.0,6.0,2.5,0.0,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5
+Polish,Psychological and Behavioural Science,UG Degree,2.5,2.5,2.5,13.0,6.0,2.5,11.0,2.5,2.5,6.0,2.5,0.0,11.0,2.5,2.5
+Polish,Psychological and Behavioural Science,PG Taught,2.5,0.0,0.0,8.0,5.0,2.5,7.0,2.5,2.5,7.0,2.5,2.5,14.0,6.0,2.5
+Polish,School of Public Policy,PG Taught,5.0,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,5.0,2.5,0.0
+Polish,Social Policy  ,UG Degree,13.0,2.5,2.5,11.0,5.0,2.5,11.0,2.5,0.0,7.0,2.5,0.0,10.0,2.5,0.0
+Polish,Social Policy  ,PG Taught,6.0,2.5,0.0,2.5,2.5,2.5,5.0,2.5,2.5,0.0,0.0,0.0,2.5,2.5,2.5
+Polish,Sociology  ,UG Degree,7.0,2.5,2.5,11.0,7.0,2.5,2.5,2.5,2.5,5.0,0.0,0.0,6.0,2.5,0.0
+Polish,Sociology  ,PG Taught,7.0,5.0,2.5,6.0,2.5,2.5,2.5,2.5,0.0,10.0,6.0,5.0,2.5,2.5,2.5
+Polish,Statistics  ,UG Degree,19.0,7.0,2.5,13.0,2.5,2.5,25.0,2.5,2.5,12.0,2.5,2.5,10.0,2.5,2.5
+Polish,Statistics  ,PG Taught,2.5,0.0,0.0,7.0,2.5,2.5,6.0,2.5,0.0,9.0,2.5,2.5,8.0,2.5,2.5
+Portuguese,Accounting  ,UG Degree,5.0,2.5,2.5,11.0,2.5,2.5,13.0,2.5,2.5,6.0,2.5,0.0,16.0,2.5,2.5
+Portuguese,Accounting  ,PG Taught,2.5,2.5,2.5,5.0,2.5,2.5,5.0,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5
+Portuguese,Anthropology  ,UG Degree,2.5,2.5,2.5,5.0,2.5,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Portuguese,Anthropology  ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Portuguese,Economic  History ,UG Degree,2.5,2.5,2.5,5.0,2.5,2.5,11.0,0.0,0.0,6.0,2.5,0.0,2.5,2.5,2.5
+Portuguese,Economic  History ,PG Taught,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,0.0,2.5,2.5,0.0
+Portuguese,Economics  ,UG Degree,17.0,0.0,0.0,27.0,2.5,2.5,20.0,0.0,0.0,19.0,0.0,0.0,21.0,2.5,0.0
+Portuguese,Economics  ,PG Taught,8.0,2.5,2.5,6.0,2.5,0.0,12.0,2.5,0.0,9.0,2.5,2.5,8.0,5.0,2.5
+Portuguese,European Institute,PG Taught,5.0,2.5,2.5,5.0,2.5,2.5,2.5,0.0,0.0,6.0,2.5,2.5,2.5,0.0,2.5
+Portuguese,Finance  ,UG Degree,2.5,2.5,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Portuguese,Finance  ,PG Taught,11.0,2.5,2.5,15.0,2.5,2.5,22.0,2.5,2.5,23.0,2.5,2.5,21.0,5.0,5.0
+Portuguese,Gender Studies,PG Taught,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5
+Portuguese,Geography and Environment,UG Degree,7.0,2.5,2.5,5.0,2.5,0.0,2.5,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Portuguese,Geography and Environment,PG Taught,2.5,2.5,2.5,5.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,6.0,0.0,0.0
+Portuguese,Government  ,UG Degree,12.0,2.5,0.0,12.0,2.5,0.0,13.0,0.0,0.0,19.0,0.0,0.0,9.0,2.5,0.0
+Portuguese,Government  ,PG Taught,10.0,2.5,2.5,12.0,2.5,2.5,12.0,2.5,2.5,10.0,2.5,2.5,7.0,2.5,0.0
+Portuguese,Health Policy ,PG Taught,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,2.5
+Portuguese,International Development,PG Taught,10.0,2.5,2.5,11.0,2.5,2.5,6.0,2.5,2.5,7.0,2.5,0.0,10.0,2.5,2.5
+Portuguese,International  History ,UG Degree,2.5,2.5,2.5,6.0,2.5,2.5,2.5,2.5,2.5,6.0,2.5,2.5,2.5,2.5,2.5
+Portuguese,International  History ,PG Taught,5.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Portuguese,International  Relations ,UG Degree,8.0,2.5,2.5,2.5,0.0,0.0,7.0,0.0,0.0,5.0,2.5,2.5,6.0,2.5,0.0
+Portuguese,International  Relations ,PG Taught,7.0,2.5,2.5,8.0,2.5,2.5,7.0,2.5,2.5,6.0,2.5,2.5,2.5,0.0,0.0
+Portuguese,Language Centre,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Portuguese,LSE Law School,UG Degree,8.0,2.5,2.5,9.0,0.0,0.0,13.0,0.0,0.0,16.0,2.5,2.5,9.0,0.0,0.0
+Portuguese,LSE Law School,PG Taught,15.0,7.0,2.5,11.0,2.5,2.5,13.0,2.5,2.5,10.0,5.0,2.5,5.0,2.5,2.5
+Portuguese,Management  ,UG Degree,14.0,2.5,0.0,19.0,2.5,2.5,23.0,0.0,0.0,23.0,2.5,0.0,11.0,2.5,0.0
+Portuguese,Management  ,PG Taught,22.0,8.0,2.5,31.0,10.0,8.0,27.0,6.0,5.0,21.0,2.5,2.5,24.0,6.0,2.5
+Portuguese,Mathematics  ,UG Degree,2.5,2.5,0.0,8.0,2.5,0.0,5.0,2.5,0.0,2.5,0.0,0.0,6.0,2.5,0.0
+Portuguese,Mathematics  ,PG Taught,2.5,2.5,2.5,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Portuguese,Media and Communications,PG Taught,2.5,0.0,0.0,2.5,2.5,2.5,5.0,2.5,2.5,2.5,0.0,0.0,5.0,2.5,2.5
+Portuguese,Methodology ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Portuguese,Philosophy Logic and Scientific Method,UG Degree,9.0,2.5,0.0,13.0,2.5,2.5,9.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0
+Portuguese,Philosophy Logic and Scientific Method,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Portuguese,Psychological and Behavioural Science,UG Degree,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Portuguese,Psychological and Behavioural Science,PG Taught,7.0,2.5,2.5,0.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Portuguese,School of Public Policy,PG Taught,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5
+Portuguese,Social Policy  ,UG Degree,8.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0
+Portuguese,Social Policy  ,PG Taught,2.5,2.5,0.0,5.0,2.5,0.0,2.5,2.5,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Portuguese,Sociology  ,UG Degree,2.5,2.5,0.0,2.5,2.5,2.5,0.0,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0
+Portuguese,Sociology  ,PG Taught,6.0,2.5,2.5,8.0,2.5,2.5,6.0,2.5,2.5,2.5,2.5,0.0,5.0,2.5,2.5
+Portuguese,Statistics  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,5.0,2.5,2.5,5.0,0.0,0.0,2.5,2.5,0.0
+Portuguese,Statistics  ,PG Taught,2.5,0.0,0.0,2.5,0.0,2.5,2.5,2.5,0.0,6.0,2.5,0.0,10.0,2.5,2.5
+Romanian,Accounting  ,UG Degree,12.0,2.5,0.0,11.0,0.0,0.0,11.0,0.0,0.0,10.0,2.5,2.5,14.0,2.5,2.5
+Romanian,Accounting  ,PG Taught,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Romanian,Anthropology  ,UG Degree,2.5,0.0,0.0,5.0,2.5,2.5,2.5,0.0,0.0,6.0,2.5,0.0,2.5,0.0,0.0
+Romanian,Anthropology  ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0
+Romanian,Economic  History ,UG Degree,2.5,2.5,2.5,2.5,0.0,0.0,9.0,2.5,2.5,9.0,0.0,0.0,2.5,0.0,2.5
+Romanian,Economic  History ,PG Taught,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5
+Romanian,Economics  ,UG Degree,24.0,0.0,0.0,33.0,2.5,0.0,27.0,2.5,2.5,29.0,2.5,2.5,20.0,0.0,0.0
+Romanian,Economics  ,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,5.0,2.5,0.0,6.0,2.5,0.0
+Romanian,European Institute,PG Taught,7.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,9.0,7.0,2.5,2.5,2.5,0.0
+Romanian,Finance  ,UG Degree,7.0,0.0,0.0,10.0,2.5,2.5,10.0,0.0,0.0,6.0,2.5,0.0,8.0,0.0,0.0
+Romanian,Finance  ,PG Taught,11.0,2.5,2.5,6.0,0.0,0.0,5.0,0.0,0.0,9.0,2.5,2.5,8.0,2.5,2.5
+Romanian,Gender Studies,PG Taught,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Romanian,Geography and Environment,UG Degree,2.5,2.5,0.0,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Romanian,Geography and Environment,PG Taught,2.5,2.5,2.5,2.5,0.0,0.0,11.0,2.5,2.5,6.0,0.0,0.0,5.0,0.0,0.0
+Romanian,Government  Government ,UG Degree,24.0,2.5,2.5,25.0,2.5,2.5,14.0,2.5,2.5,21.0,2.5,2.5,17.0,2.5,2.5
+Romanian,Government  Government ,PG Taught,6.0,2.5,0.0,6.0,2.5,2.5,5.0,2.5,2.5,7.0,2.5,2.5,9.0,5.0,2.5
+Romanian,Health Policy ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,6.0,5.0,2.5
+Romanian,International Development,PG Taught,6.0,2.5,2.5,5.0,2.5,2.5,5.0,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0
+Romanian,International  History ,UG Degree,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,8.0,2.5,0.0
+Romanian,International  History ,PG Taught,2.5,2.5,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0
+Romanian,International  Relations ,UG Degree,2.5,0.0,0.0,6.0,0.0,0.0,6.0,2.5,2.5,2.5,2.5,0.0,7.0,2.5,2.5
+Romanian,International  Relations ,PG Taught,7.0,2.5,0.0,7.0,2.5,2.5,2.5,2.5,2.5,5.0,2.5,0.0,2.5,2.5,2.5
+Romanian,Language Centre,UG Degree,5.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Romanian,LSE Law School,UG Degree,26.0,2.5,0.0,30.0,2.5,0.0,16.0,0.0,0.0,29.0,6.0,2.5,24.0,6.0,2.5
+Romanian,LSE Law School,PG Taught,10.0,2.5,2.5,8.0,5.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,7.0,5.0,2.5
+Romanian,Management  ,UG Degree,23.0,2.5,0.0,35.0,2.5,2.5,12.0,2.5,2.5,12.0,2.5,2.5,19.0,2.5,2.5
+Romanian,Management  ,PG Taught,12.0,2.5,2.5,6.0,2.5,0.0,11.0,2.5,2.5,15.0,6.0,2.5,5.0,2.5,0.0
+Romanian,Mathematics  ,UG Degree,11.0,2.5,2.5,13.0,2.5,2.5,8.0,0.0,0.0,6.0,2.5,0.0,11.0,2.5,0.0
+Romanian,Mathematics  ,PG Taught,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0
+Romanian,Media and Communications,PG Taught,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,2.5
+Romanian,Methodology ,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Romanian,Philosophy Logic and Scientific Method,UG Degree,15.0,2.5,0.0,21.0,2.5,2.5,17.0,2.5,2.5,15.0,2.5,2.5,7.0,2.5,2.5
+Romanian,Philosophy Logic and Scientific Method,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5
+Romanian,Psychological and Behavioural Science,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,5.0,0.0,0.0
+Romanian,Psychological and Behavioural Science,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,6.0,2.5,2.5,2.5,2.5,2.5,5.0,2.5,2.5
+Romanian,School of Public Policy,PG Taught,2.5,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Romanian,Social Policy  ,UG Degree,10.0,2.5,0.0,5.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,6.0,2.5,0.0
+Romanian,Social Policy  ,PG Taught,9.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,6.0,2.5,0.0
+Romanian,Sociology  ,UG Degree,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0
+Romanian,Sociology  ,PG Taught,7.0,2.5,2.5,5.0,2.5,0.0,5.0,2.5,2.5,5.0,2.5,2.5,2.5,0.0,0.0
+Romanian,Statistics  ,UG Degree,7.0,0.0,0.0,5.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,13.0,2.5,2.5
+Romanian,Statistics  ,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,5.0,2.5,0.0
+Slovak,Accounting  ,UG Degree,2.5,2.5,0.0,0.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Slovak,Accounting  ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Slovak,Anthropology  ,UG Degree,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Slovak,Anthropology  ,PG Taught,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Slovak,Economic Hi.. ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Slovak,Economics  ,UG Degree,7.0,0.0,0.0,9.0,0.0,0.0,5.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Slovak,Economics  ,PG Taught,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0
+Slovak,European Institute,PG Taught,10.0,2.5,2.5,6.0,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,2.5,2.5,2.5
+Slovak,Finance  ,UG Degree,2.5,2.5,2.5,2.5,2.5,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Slovak,Finance  ,PG Taught,2.5,0.0,0.0,7.0,2.5,2.5,0.0,0.0,0.0,5.0,2.5,0.0,2.5,0.0,0.0
+Slovak,Gender Studies,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Slovak,Geography and Environment,UG Degree,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Slovak,Geography and Environment,PG Taught,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0
+Slovak,Government  ,UG Degree,6.0,0.0,0.0,13.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5
+Slovak,Government  ,PG Taught,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Slovak,International Development,PG Taught,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5
+Slovak,International  History ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Slovak,International  History ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Slovak,International  Relations ,UG Degree,2.5,0.0,0.0,10.0,0.0,0.0,2.5,0.0,0.0,5.0,0.0,0.0,2.5,0.0,0.0
+Slovak,International  Relations ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Slovak,Language Centre,UG Degree,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Slovak,LSE Law School,UG Degree,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,11.0,0.0,0.0
+Slovak,LSE Law School,PG Taught,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+Slovak,Management  ,UG Degree,7.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Slovak,Management  ,PG Taught,2.5,0.0,0.0,6.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0
+Slovak,Mathematics  ,UG Degree,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,2.5,0.0,0.0
+Slovak,Mathematics  ,PG Taught,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Slovak,Media and Communications,PG Taught,2.5,2.5,2.5,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5
+Slovak,Methodology ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Slovak,Philosophy Logic and Scientific Method,UG Degree,5.0,2.5,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Slovak,Philosophy Logic and Scientific Method,PG Taught,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Slovak,Psychological and Behavioural Science,UG Degree,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Slovak,Psychological and Behavioural Science,PG Taught,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Slovak,School of Public Policy,PG Taught,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5
+Slovak,Social Policy  ,UG Degree,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
+Slovak,Social Policy  ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5
+Slovak,Sociology  Sociology ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Slovak,Sociology  Sociology ,PG Taught,2.5,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,0.0,0.0
+Slovak,Statistics  ,UG Degree,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Slovak,Statistics  ,PG Taught,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.5,2.5
+Spanish,Accounting  ,UG Degree,11.0,2.5,2.5,14.0,2.5,2.5,16.0,2.5,0.0,12.0,2.5,2.5,26.0,2.5,2.5
+Spanish,Accounting  ,PG Taught,2.5,0.0,0.0,2.5,0.0,0.0,10.0,2.5,2.5,6.0,2.5,2.5,2.5,2.5,2.5
+Spanish,Anthropology  ,UG Degree,6.0,0.0,0.0,13.0,2.5,2.5,2.5,0.0,0.0,8.0,0.0,0.0,6.0,0.0,0.0
+Spanish,Anthropology  ,PG Taught,2.5,2.5,0.0,6.0,5.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0
+Spanish,Economic  History ,UG Degree,6.0,0.0,2.5,7.0,0.0,0.0,12.0,0.0,0.0,9.0,0.0,0.0,11.0,2.5,2.5
+Spanish,Economic  History ,PG Taught,2.5,2.5,2.5,7.0,2.5,2.5,5.0,2.5,2.5,2.5,2.5,0.0,9.0,2.5,2.5
+Spanish,Economics  ,UG Degree,46.0,2.5,0.0,49.0,2.5,0.0,58.0,2.5,2.5,40.0,2.5,2.5,48.0,2.5,2.5
+Spanish,Economics  ,PG Taught,17.0,6.0,6.0,36.0,17.0,8.0,32.0,8.0,2.5,23.0,8.0,2.5,15.0,8.0,2.5
+Spanish,European Institute,PG Taught,21.0,11.0,6.0,32.0,20.0,13.0,20.0,12.0,8.0,21.0,14.0,11.0,24.0,13.0,7.0
+Spanish,Finance  ,UG Degree,6.0,2.5,2.5,10.0,2.5,2.5,14.0,0.0,0.0,15.0,2.5,2.5,15.0,2.5,0.0
+Spanish,Finance  ,PG Taught,25.0,5.0,2.5,28.0,2.5,2.5,34.0,7.0,2.5,26.0,6.0,2.5,29.0,2.5,2.5
+Spanish,Gender Studies,PG Taught,2.5,0.0,0.0,20.0,11.0,6.0,12.0,8.0,5.0,2.5,2.5,2.5,2.5,2.5,2.5
+Spanish,Geography and Environment,UG Degree,12.0,2.5,2.5,9.0,5.0,2.5,11.0,2.5,2.5,8.0,2.5,0.0,8.0,2.5,0.0
+Spanish,Geography and Environment,PG Taught,15.0,5.0,5.0,22.0,9.0,2.5,22.0,8.0,2.5,33.0,15.0,10.0,20.0,7.0,7.0
+Spanish,Government  ,UG Degree,48.0,2.5,0.0,59.0,2.5,2.5,59.0,2.5,2.5,40.0,2.5,2.5,41.0,5.0,2.5
+Spanish,Government  ,PG Taught,22.0,5.0,2.5,30.0,8.0,2.5,21.0,6.0,2.5,23.0,10.0,6.0,13.0,9.0,2.5
+Spanish,Health Policy ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,6.0,2.5,2.5
+Spanish,International Development,PG Taught,28.0,2.5,2.5,27.0,12.0,8.0,21.0,8.0,7.0,25.0,10.0,11.0,32.0,13.0,9.0
+Spanish,International  History ,UG Degree,12.0,2.5,2.5,7.0,5.0,2.5,7.0,2.5,0.0,17.0,2.5,0.0,9.0,2.5,0.0
+Spanish,International  History ,PG Taught,9.0,2.5,2.5,6.0,2.5,2.5,5.0,2.5,0.0,2.5,2.5,2.5,7.0,5.0,2.5
+Spanish,International  Relations ,UG Degree,30.0,2.5,0.0,28.0,2.5,2.5,19.0,2.5,0.0,9.0,0.0,0.0,19.0,2.5,2.5
+Spanish,International  Relations ,PG Taught,26.0,8.0,6.0,16.0,5.0,6.0,18.0,5.0,2.5,13.0,2.5,2.5,15.0,7.0,5.0
+Spanish,Language Centre,UG Degree,9.0,2.5,2.5,8.0,2.5,2.5,5.0,2.5,2.5,7.0,2.5,0.0,2.5,0.0,0.0
+Spanish,LSE Law School,UG Degree,18.0,2.5,2.5,16.0,2.5,2.5,26.0,2.5,0.0,20.0,2.5,0.0,22.0,2.5,0.0
+Spanish,LSE Law School,PG Taught,25.0,5.0,2.5,17.0,8.0,5.0,12.0,2.5,2.5,20.0,6.0,2.5,13.0,5.0,2.5
+Spanish,Management  ,UG Degree,43.0,7.0,2.5,40.0,7.0,5.0,61.0,2.5,2.5,66.0,5.0,2.5,35.0,2.5,2.5
+Spanish,Management  ,PG Taught,40.0,11.0,6.0,37.0,8.0,6.0,31.0,9.0,2.5,30.0,9.0,5.0,28.0,7.0,2.5
+Spanish,Mathematics  ,UG Degree,20.0,2.5,2.5,29.0,7.0,2.5,22.0,2.5,2.5,23.0,2.5,2.5,22.0,2.5,0.0
+Spanish,Mathematics  ,PG Taught,2.5,0.0,0.0,13.0,2.5,2.5,11.0,5.0,2.5,10.0,2.5,0.0,13.0,6.0,2.5
+Spanish,Media and Communications,PG Taught,11.0,2.5,2.5,16.0,5.0,2.5,6.0,2.5,0.0,8.0,5.0,2.5,6.0,2.5,2.5
+Spanish,Methodology ,PG Taught,8.0,2.5,2.5,6.0,2.5,0.0,5.0,2.5,2.5,11.0,2.5,2.5,2.5,2.5,2.5
+Spanish,Philosophy Logic and Scientific Method,UG Degree,26.0,5.0,2.5,28.0,2.5,2.5,44.0,2.5,2.5,28.0,2.5,2.5,25.0,0.0,0.0
+Spanish,Philosophy Logic and Scientific Method,PG Taught,8.0,2.5,2.5,7.0,2.5,2.5,7.0,2.5,0.0,10.0,5.0,2.5,2.5,2.5,2.5
+Spanish,Psychological and Behavioural Science,UG Degree,5.0,2.5,0.0,2.5,2.5,0.0,6.0,0.0,0.0,5.0,2.5,2.5,7.0,2.5,2.5
+Spanish,Psychological and Behavioural Science,PG Taught,2.5,0.0,0.0,11.0,2.5,2.5,8.0,2.5,2.5,7.0,2.5,2.5,2.5,2.5,2.5
+Spanish,School of Public Policy,PG Taught,6.0,2.5,2.5,8.0,2.5,2.5,12.0,9.0,2.5,10.0,2.5,2.5,5.0,2.5,2.5
+Spanish,Social Policy  ,UG Degree,14.0,2.5,2.5,9.0,2.5,2.5,12.0,0.0,0.0,11.0,0.0,0.0,8.0,2.5,2.5
+Spanish,Social Policy  ,PG Taught,15.0,2.5,2.5,8.0,2.5,2.5,14.0,7.0,2.5,2.5,0.0,0.0,2.5,2.5,2.5
+Spanish,Sociology  ,UG Degree,5.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,5.0,2.5,0.0
+Spanish,Sociology  ,PG Taught,21.0,9.0,7.0,22.0,10.0,8.0,17.0,9.0,5.0,15.0,8.0,2.5,15.0,5.0,2.5
+Spanish,Statistics  ,UG Degree,12.0,2.5,2.5,13.0,2.5,2.5,25.0,2.5,2.5,18.0,2.5,2.5,21.0,2.5,2.5
+Spanish,Statistics  ,PG Taught,2.5,2.5,0.0,13.0,6.0,2.5,17.0,2.5,2.5,10.0,2.5,2.5,5.0,0.0,0.0
+Swedish,Accounting  ,UG Degree,7.0,0.0,0.0,8.0,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,5.0,0.0,0.0
+Swedish,Accounting  ,PG Taught,2.5,2.5,2.5,9.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5
+Swedish,Anthropology  ,UG Degree,6.0,2.5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0
+Swedish,Anthropology  ,PG Taught,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Swedish,Economic  History ,UG Degree,5.0,2.5,2.5,2.5,0.0,0.0,5.0,0.0,0.0,5.0,2.5,0.0,2.5,0.0,0.0
+Swedish,Economic  History ,PG Taught,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5
+Swedish,Economics  ,UG Degree,10.0,2.5,0.0,14.0,2.5,2.5,14.0,0.0,0.0,15.0,0.0,0.0,13.0,0.0,0.0
+Swedish,Economics  ,PG Taught,5.0,2.5,0.0,7.0,2.5,2.5,6.0,2.5,2.5,0.0,0.0,0.0,10.0,6.0,2.5
+Swedish,European Institute,PG Taught,5.0,2.5,2.5,2.5,2.5,0.0,12.0,5.0,2.5,2.5,2.5,2.5,5.0,2.5,2.5
+Swedish,Finance  Finance ,UG Degree,2.5,0.0,0.0,5.0,2.5,2.5,2.5,0.0,0.0,2.5,2.5,2.5,6.0,0.0,0.0
+Swedish,Finance  Finance ,PG Taught,15.0,2.5,0.0,14.0,5.0,2.5,14.0,5.0,2.5,8.0,2.5,2.5,17.0,2.5,2.5
+Swedish,Gender Studies,PG Taught,11.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0
+Swedish,Geography and Environment,UG Degree,9.0,2.5,2.5,8.0,0.0,0.0,5.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Swedish,Geography and Environment,PG Taught,10.0,5.0,2.5,14.0,6.0,2.5,9.0,2.5,0.0,11.0,5.0,2.5,12.0,2.5,2.5
+Swedish,Government  ,UG Degree,26.0,2.5,2.5,22.0,2.5,2.5,21.0,2.5,0.0,23.0,0.0,0.0,11.0,2.5,2.5
+Swedish,Government  ,PG Taught,9.0,2.5,2.5,5.0,2.5,2.5,11.0,2.5,2.5,5.0,2.5,2.5,6.0,2.5,2.5
+Swedish,Health Policy ,PG Taught,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Swedish,International Development,PG Taught,11.0,2.5,2.5,9.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,6.0,2.5,2.5
+Swedish,International  History ,UG Degree,2.5,2.5,0.0,7.0,2.5,2.5,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0
+Swedish,International  History ,PG Taught,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+Swedish,International  Relations ,UG Degree,13.0,2.5,2.5,14.0,2.5,2.5,8.0,2.5,2.5,2.5,2.5,2.5,6.0,2.5,0.0
+Swedish,International  Relations ,PG Taught,14.0,5.0,2.5,7.0,5.0,2.5,13.0,2.5,2.5,2.5,2.5,2.5,7.0,2.5,2.5
+Swedish,Language Centre,UG Degree,2.5,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,2.5,0.0
+Swedish,LSE Law School,UG Degree,20.0,2.5,2.5,16.0,2.5,0.0,10.0,2.5,0.0,13.0,5.0,2.5,5.0,0.0,0.0
+Swedish,LSE Law School,PG Taught,6.0,2.5,2.5,5.0,2.5,2.5,7.0,5.0,2.5,2.5,2.5,2.5,6.0,2.5,2.5
+Swedish,Management  ,UG Degree,8.0,0.0,0.0,2.5,0.0,0.0,13.0,0.0,0.0,5.0,2.5,0.0,8.0,0.0,0.0
+Swedish,Management  ,PG Taught,8.0,2.5,2.5,15.0,2.5,2.5,13.0,5.0,5.0,15.0,7.0,2.5,14.0,2.5,2.5
+Swedish,Mathematics  ,UG Degree,9.0,2.5,0.0,6.0,0.0,0.0,2.5,2.5,0.0,7.0,2.5,0.0,5.0,0.0,0.0
+Swedish,Mathematics  ,PG Taught,2.5,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0
+Swedish,Media and Communications,PG Taught,5.0,2.5,2.5,6.0,2.5,2.5,6.0,2.5,2.5,5.0,2.5,2.5,6.0,5.0,2.5
+Swedish,Methodology ,PG Taught,0.0,0.0,0.0,2.5,2.5,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0
+Swedish,Philosophy Logic and Scientific Method,UG Degree,10.0,0.0,0.0,7.0,0.0,0.0,11.0,0.0,0.0,11.0,0.0,0.0,10.0,2.5,2.5
+Swedish,Philosophy Logic and Scientific Method,PG Taught,2.5,2.5,2.5,5.0,2.5,2.5,2.5,2.5,0.0,2.5,2.5,2.5,2.5,0.0,0.0
+Swedish,Psychological and Behavioural Science,UG Degree,2.5,2.5,0.0,5.0,2.5,2.5,2.5,2.5,0.0,6.0,2.5,0.0,2.5,2.5,0.0
+Swedish,Psychological and Behavioural Science,PG Taught,10.0,2.5,2.5,2.5,2.5,2.5,2.5,2.5,0.0,5.0,2.5,2.5,5.0,0.0,0.0
+Swedish,School of Public Policy,PG Taught,2.5,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+Swedish,Social Policy  ,UG Degree,2.5,0.0,0.0,11.0,2.5,2.5,8.0,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0
+Swedish,Social Policy  ,PG Taught,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,0.0,0.0,0.0,5.0,2.5,2.5
+Swedish,Sociology  ,UG Degree,2.5,2.5,0.0,5.0,2.5,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Swedish,Sociology  ,PG Taught,10.0,2.5,2.5,10.0,5.0,2.5,2.5,2.5,0.0,2.5,2.5,2.5,5.0,2.5,2.5
+Swedish,Statistics  ,UG Degree,2.5,0.0,0.0,2.5,0.0,0.0,2.5,2.5,2.5,2.5,2.5,2.5,5.0,0.0,0.0
+Swedish,Statistics  ,PG Taught,2.5,2.5,0.0,0.0,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5,0.0,0.0
