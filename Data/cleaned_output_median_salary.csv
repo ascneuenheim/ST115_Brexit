@@ -1,155 +1,139 @@
 Course Name,Median Salary,Department,Salary Group
-BSc Geography with Economics,,Geography and Environment,Low
-"BSc Philosophy, Logic and Scientific Method",,"Philosophy, Logic and Scientific Method",Low
+BSc Geography with Economics,32000,Geography and Environment,Low
+"BSc Philosophy, Logic and Scientific Method",35000,"Philosophy, Logic and Scientific Method",Low
 BSc Psychological and Behavioural Science,,Psychological and Behavioural Science,Low
-BSc Politics and International Relations,,Government,Low
-LLB Bachelor of Laws,,LSE Law School,Low
-BSc International Social and Public Policy with Economics,,Social Policy,Low
-BSc Mathematics with Data Science,,Mathematics,Low
-BSc Politics and Philosophy,,Government,Low
-BSc Politics,,Government,Low
-BSc Economics and Economic History,,Economic History,Low
-BSc Sociology,,Sociology,Low
-BA History,,International History,Low
-"BSc Mathematics, Statistics and Business",,Statistics,Low
-BSc Management,,Management,Low
-BSc Mathematics with Economics,,Mathematics,Low
-BSc International Relations,,International Relations,Low
-BA Anthropology and Law,,Anthropology,Low
-BSc Data Science,,Statistics,Low
-BSc Economic History and Geography,,Economic History,Low
-BSc Mathematics and Economics,,Mathematics,Low
-BSc History and Politics,,International History,Low
-BSc International Relations and Chinese,,Language Centre,Low
-BA Social Anthropology,,Anthropology,Low
-BSc Environment and Sustainable Development with Economics,,Geography and Environment,Low
-BSc Social Anthropology,,Anthropology,Low
-BSc Financial Mathematics and Statistics,,Mathematics,Low
-"BSc Philosophy, Politics and Economics",,"Philosophy, Logic and Scientific Method",Low
-BSc Philosophy and Economics,,"Philosophy, Logic and Scientific Method",Low
-BSc International Social and Public Policy,,Social Policy,Low
-BSc Econometrics and Mathematical Economics,,Economics,Low
-BSc Finance,,Finance,Low
-BSc Environment and Sustainable Development,,Geography and Environment,Low
+BSc Politics and International Relations,38000,Government,High
+LLB Bachelor of Laws,39000,LSE Law School,High
+BSc International Social and Public Policy with Economics,34000,Social Policy,Low
+BSc Mathematics with Data Science,35500,Mathematics,High
+BSc Politics and Philosophy,38000,Government,High
+BSc Politics,38000,Government,High
+BSc Economics and Economic History,40000,Economic History,High
+BSc Sociology,30000,Sociology,Low
+BA History,30000,International History,Low
+"BSc Mathematics, Statistics and Business",35000,Statistics,High
+BSc Management,39000,Management,High
+BSc Mathematics with Economics,35500,Mathematics,High
+BSc International Relations,29500,International Relations,Low
+BA Anthropology and Law,27000,Anthropology,Low
+BSc Data Science,35000,Statistics,High
+BSc Economic History and Geography,40000,Economic History,High
+BSc Environment and Sustainable Development with Economics,32000,Geography and Environment,Low
+BSc Politics and Economics,38000,Government,High
+BSc International Social and Public Policy,34000,Social Policy,Low
+BSc Econometrics and Mathematical Economics,45000,Economics,High
+BSc Finance,60500,Finance,High
+BSc Environment and Sustainable Development,32000,Geography and Environment,Low
 "BSc Language, Culture and Society",,Language Centre,Low
-BSc Accounting and Finance,,Accounting,Low
-BSc Economics,,Economics,Low
-BSc International Social and Public Policy with Politics,,Social Policy,Low
-BSc Economic History,,Economic History,Low
-BSc International Relations and History,,International History,Low
-BSc Politics and Data Science,,Government,Low
-BSc Actuarial Science,,Statistics,Low
-MSc Human Rights and Politics,,Sociology,Low
-MSc Econometrics and Mathematical Economics,,Economics,Low
-MSc Anthropology and Development,,Anthropology,Low
-MSc Management and Strategy,,Management,Low
-MSc Philosophy of Science,,Philosophy Logic and Scientific Method,Low
-MSc Social Research Methods,,Methodology,Low
-MSc Inequalities and Social Science,,Sociology,Low
-MSc Statistics (Research),,Statistics,Low
-MSc Applicable Mathematics,,Mathematics,Low
-MSc Political Economy of Late Development,,Economic History,Low
-MSc Finance and Private Equity,,Finance,Low
-MSc Political Science (Political Science and Political Economy),,Government,Low
+BSc Accounting and Finance,38500,Accounting,High
+BSc Economics,45000,Economics,High
+BSc International Social and Public Policy with Politics,34000,Social Policy,Low
+BSc Economic History,40000,Economic History,High
+BSc International Relations and History,30000,International History,Low
+BSc Politics and Data Science,38000,Government,High
+BSc Actuarial Science,35000,Statistics,High
+MSc Organisational and Social Psychology,33000,Psychological and Behavioural Science,Low
+MSc Political Economy of Late Development,42000,Economic History,High
+"Double Degree with Peking University: Environmental Policy, Technology and Health",35000,Geography and Environment,Low
+MSc Media and Communications (Data and Society),30000,Media and Communications,Low
+MSc Media and Communications (Media and Communication Governance),30000,Media and Communications,Low
+MSc Political Science (Global Politics),34000,Government,High
+MSc Strategic Communications and Society,30000,Media and Communications,Low
+MSc Finance (full-time),,Finance,High
+MSc Social and Cultural Psychology,33000,Psychological and Behavioural Science,Low
+"MSc Health Policy, Planning and Financing",38000,Health Policy,High
+MSc Finance and Private Equity,,Finance,High
+MSc Political Science (Political Science and Political Economy),34000,Government,High
 Master of Public Administration (MPA),,School of Public Policy,Low
-MSc International Migration and Public Policy,,European Institute,Low
-MSc Global Media and Communications (LSE and UCT),,Media and Communications,Low
-MSc International Health Policy (Health Economics),,Health Policy,Low
-MSc International Relations (Research),,International Relations,Low
-MSc Local Economic Development,,Geography and Environment,Low
-MSc Management of Information Systems and Digital Innovation,,Management,Low
-MSc International Political Economy (Research),,International Relations,Low
-MSc Social Anthropology (Religion in the Contemporary World),,Anthropology,Low
-LSE-Sciences Po Double Degree in European Studies,,European Institute,Low
-MSc Economics and Management,,Management,Low
-"MSc Gender, Policy and Inequalities",,Gender Studies,Low
-MSc Economics,,Economics,Low
-LSE-Fudan Double Master's in International Social and Public Policy,,Social Policy,Low
-MSc Statistics (Financial Statistics) (Research),,Statistics,Low
-LSE-University of Toronto Double Master of Public Administration (LSE) and Master of Global Affairs (Munk School),,School of Public Policy,Low
-MSc Political Theory,,Government,Low
-MSc Philosophy of Economics and the Social Sciences,,Philosophy Logic and Scientific Method,Low
-MSc Health Data Science,,Health Policy,Low
-MSc Marketing,,Management,Low
-MSc Global Health Policy,,Health Policy,Low
-LSE-PKU Double MSc Degree in International Affairs,,International History,Low
-MSc Gender (Sexuality),,Gender Studies,Low
-LSE-NUS Double Degree MA Asian and International History,,International History,Low
-"MSc Gender, Peace and Security",,Gender Studies,Low
-MSc Media and Communications (Research),,Media and Communications,Low
-MSc China in Comparative Perspective,,Anthropology,Low
-"MSc Media, Communication and Development",,Media and Communications,Low
-MSc Development Management,,International Development,Low
-MSc Global Media and Communications (LSE and USC),,Media and Communications,Low
-MSc Environmental Policy and Regulation,,Geography and Environment,Low
-LSE-Bocconi Double Degree in European and International Public Policy and Politics,,European Institute,Low
-MSc Political Science (Political Behaviour),,Government,Low
-Global Master's in Management,,Management,Low
+MSc International Migration and Public Policy,30000,European Institute,Low
+MSc Global Media and Communications (LSE and UCT),30000,Media and Communications,Low
+MSc International Health Policy (Health Economics),38000,Health Policy,High
+MSc International Relations (Research),32000,International Relations,Low
+MSc Local Economic Development,35000,Geography and Environment,Low
+MSc Management of Information Systems and Digital Innovation,,Management,High
+MSc International Political Economy (Research),32000,International Relations,Low
+MSc International and Asian History,,International History,Low
+MSc Development Studies,32000,International Development,Low
+LSE-Bocconi Double Degree in European and International Public Policy and Politics,30000,European Institute,Low
 LSE- Sciences Po Double Degree (MPP/MPA),,School of Public Policy,Low
+MSc Political Science (Political Behaviour),34000,Government,High
+Global Master's in Management,,Management,High
 MSc Health and International Development,,International Development,Low
-Master's in Management,,Management,Low
-MSc Finance and Risk,,Finance,Low
-"MSc Gender, Development and Globalisation",,Gender Studies,Low
-MSc Finance and Economics,,Finance,Low
-MSc Economics (two year programme),,Economics,Low
-MSc Regulation,,Government,Low
+"MSc Gender, Policy and Inequalities",33000,Gender Studies,Low
+MSc Economics,,Economics,High
+LSE-Fudan Double Master's in International Social and Public Policy,30000,Social Policy,Low
+MSc Statistics (Financial Statistics) (Research),38000,Statistics,High
+LSE-University of Toronto Double Master of Public Administration (LSE) and Master of Global Affairs (Munk School),,School of Public Policy,Low
+MSc Political Theory,34000,Government,High
+MSc Philosophy of Economics and the Social Sciences,34500,Philosophy Logic and Scientific Method,Low
+MSc Health Data Science,38000,Health Policy,High
+MSc Marketing,,Management,High
+MSc Global Health Policy,38000,Health Policy,High
+MSc Operations Research & Analytics,39500,Mathematics,High
+MSc Data Science,38000,Statistics,High
+MSc Public Policy and Administration,64500,Government,High
+Master of Public Policy (MPP),,School of Public Policy,Low
+MSc Economic History,42000,Economic History,High
+MSc Environmental Economics and Climate Change,35000,Geography and Environment,Low
+MA Modern History,,International History,Low
 "MSc Empires, Colonialism and Globalisation",,International History,Low
-LSE-Sciences Po Double Degree in the Political Economy of Development,,International Development,Low
-MSc Media and Communications,,Media and Communications,Low
-MSc Economic History (Research),,Economic History,Low
-MSc Statistics (Social Statistics),,Statistics,Low
-"MSc Health Policy, Planning and Financing",,Health Policy,Low
-MSc Media and Communications (Data and Society),,Media and Communications,Low
-LSE-Columbia University Double Degree in International and World History,,International History,Low
-"Double Degree with Peking University: Environmental Policy, Technology and Health",,Geography and Environment,Low
-MSc Strategic Communications and Society,,Media and Communications,Low
-MSc Finance (full-time),,Finance,Low
-MSc Social and Cultural Psychology,,Psychological and Behavioural Science,Low
-MSc Financial Mathematics,,Mathematics,Low
-Diploma in Accounting and Finance,,Accounting,Low
-MSc International Social and Public Policy,,Social Policy,Low
-MSc Philosophy and Public Policy,,Philosophy Logic and Scientific Method,Low
-"MSc Accounting, Organisations and Institutions",,Accounting,Low
-MSc Regional and Urban Planning Studies,,Geography and Environment,Low
-MSc City Design and Social Science,,Sociology,Low
-MSc Political Sociology,,Sociology,Low
-LSE-Fudan Double Degree in the Global Political Economy of China and Europe,,European Institute,Low
-MSc Statistics,,Statistics,Low
-MSc Global Media and Communications (LSE and Fudan),,Media and Communications,Low
-MSc Criminal Justice Policy,,Social Policy,Low
-MSc Political Economy of Europe,,European Institute,Low
-MSc Political Science (Conflict Studies and Comparative Politics),,Government,Low
-MSc Financial History,,Economic History,Low
+LSE-Sciences Po Double Degree in the Political Economy of Development,32000,International Development,Low
+MSc Statistics (Financial Statistics),38000,Statistics,High
+MSc Quantitative Methods for Risk Management,38000,Statistics,High
+MSc Gender (Research),33000,Gender Studies,Low
+MSc Politics and Communication,30000,Media and Communications,Low
+MSc Social Innovation and Entrepreneurship,,Management,High
+MSc Political Sociology,28000,Sociology,Low
+MSc City Design and Social Science,28000,Sociology,Low
+LSE-Fudan Double Degree in the Global Political Economy of China and Europe,30000,European Institute,Low
+"MSc Gender, Development and Globalisation",33000,Gender Studies,Low
+MSc Gender (Sexuality),33000,Gender Studies,Low
+LSE-PKU Double MSc Degree in International Affairs,,International History,Low
+MSc Finance and Economics,,Finance,High
+MSc Economics (two year programme),,Economics,High
+MSc Regulation,34000,Government,High
+MSc Media and Communications,30000,Media and Communications,Low
+MSc Economic History (Research),42000,Economic History,High
+LSE-Sciences Po Double Degree in European Studies,30000,European Institute,Low
+MSc Social Anthropology (Religion in the Contemporary World),28000,Anthropology,Low
+MSc Statistics (Social Statistics),38000,Statistics,High
+MSc Economics and Management,,Management,High
+MSc Environmental Policy and Regulation,35000,Geography and Environment,Low
+MSc China in Comparative Perspective,28000,Anthropology,Low
+MSc Finance and Risk,,Finance,High
+Master's in Management,,Management,High
+MSc Global Media and Communications (LSE and Fudan),30000,Media and Communications,Low
+MSc Criminal Justice Policy,30000,Social Policy,Low
+MSc Statistics,38000,Statistics,High
+MSc Behavioural Science,33000,Psychological and Behavioural Science,Low
+MSc Regional and Urban Planning Studies,35000,Geography and Environment,Low
+MSc Financial History,42000,Economic History,High
+MSc Statistics (Social Statistics) (Research),38000,Statistics,High
+"MSc Gender, Media and Culture",33000,Gender Studies,Low
+MSc Political Economy of Europe,30000,European Institute,Low
+MSc Political Science (Conflict Studies and Comparative Politics),34000,Government,High
 MSc Theory and History of International Relations,,International History,Low
+MSc International Health Policy,38000,Health Policy,High
+MSc Human Rights,28000,Sociology,Low
+LSE-Leipzig Double Degree in Global Studies and Economic History,42000,Economic History,High
+MSc International Development and Humanitarian Emergencies,32000,International Development,Low
+LSE-Sciences Po Double Degree in Affaires Internationales,32000,International Relations,Low
 MSc History of International Relations,,International History,Low
-MSc Human Rights,,Sociology,Low
-LSE-Leipzig Double Degree in Global Studies and Economic History,,Economic History,Low
-MSc International Health Policy,,Health Policy,Low
-MSc Statistics (Social Statistics) (Research),,Statistics,Low
-"MSc Gender, Media and Culture",,Gender Studies,Low
-MSc Behavioural Science,,Psychological and Behavioural Science,Low
-LSE-Sciences Po Double Degree in Affaires Internationales,,International Relations,Low
-MSc Psychology of Economic Life,,Psychological and Behavioural Science,Low
-MSc Human Resources and Organisations,,Management,Low
-MSc International Political Economy,,International Relations,Low
-LSE-Sciences Po Double Degree in Urban Policy,,Geography and Environment,Low
-MSc Urbanisation and Development,,Geography and Environment,Low
-MSc Social Anthropology,,Anthropology,Low
-MSc Culture and Conflict in a Global Europe,,European Institute,Low
-MSc Environment and Development,,Geography and Environment,Low
-MSc International Relations,,International Relations,Low
-MSc Human Geography and Urban Studies (Research),,Geography and Environment,Low
-MSc Accounting and Finance,,Accounting,Low
-MSc Social and Public Communication,,Psychological and Behavioural Science,Low
-"LSE-Columbia Double Degree in European Politics, Conflict and Culture",,European Institute,Low
-MSc Gender,,Gender Studies,Low
-MSc Gender (Rights and Human Rights),,Gender Studies,Low
-MSc Applied Social Data Science,,Methodology,Low
-MSc Economy and Society,,Sociology,Low
-MSc Geographic Data Science,,Geography and Environment,Low
-"LLM, Master of Laws",,LSE Law School,Low
-MSc Real Estate Economics and Finance,,Geography and Environment,Low
-MSc Sociology,,Sociology,Low
-MSc European and International Politics and Policy,,European Institute,Low
-MPA - Data Science for Public Policy,,School of Public Policy,Low
-LSE - Columbia University (SIPA) Master of Public Administration (MPA) double degree,,School of Public Policy,Low
+LSE-Sciences Po Double Degree in Urban Policy,35000,Geography and Environment,Low
+MSc Urbanisation and Development,35000,Geography and Environment,Low
+MSc International Political Economy,32000,International Relations,Low
+MSc Social Anthropology,28000,Anthropology,Low
+MSc Human Resources and Organisations,,Management,High
+MSc Culture and Conflict in a Global Europe,30000,European Institute,Low
+MSc Accounting and Finance,35000,Accounting,High
+MSc Human Geography and Urban Studies (Research),35000,Geography and Environment,Low
+MSc Environment and Development,35000,Geography and Environment,Low
+MSc Social and Public Communication,33000,Psychological and Behavioural Science,Low
+"LSE-Columbia Double Degree in European Politics, Conflict and Culture",30000,European Institute,Low
+MSc Gender,33000,Gender Studies,Low
+MSc Gender (Rights and Human Rights),33000,Gender Studies,Low
+MSc Applied Social Data Science,48000,Methodology,High
+MSc Economy and Society,28000,Sociology,Low
+MSc Geographic Data Science,35000,Geography and Environment,Low
+"LLM, Master of Laws",,LSE Law School,High
+MSc Real Estate Economics and Finance,35000,Geography and Environment,Low
